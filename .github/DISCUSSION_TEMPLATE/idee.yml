@@ -1,0 +1,23 @@
+title: "[Idea] "
+labels: ["idea"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Un'idea per migliorare Unodelposto. Non serve che sia completa: ne parliamo insieme.
+  - type: dropdown
+    id: ruolo
+    attributes:
+      label: Tu sei…
+      options:
+        - Persona del posto
+        - Ospite
+        - Ente
+        - Curioso
+  - type: textarea
+    id: idea
+    attributes:
+      label: L'idea
+      description: Cosa vorresti e perché. Un esempio concreto aiuta molto.
+    validations:
+      required: true

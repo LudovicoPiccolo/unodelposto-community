@@ -1,0 +1,21 @@
+title: "[Racconto] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Com'è andato un incontro? Cosa ha funzionato e cosa no?
+        **Non fare nomi e non pubblicare foto riconoscibili senza il consenso delle persone.**
+  - type: input
+    id: luogo
+    attributes:
+      label: Dove (comune o zona)
+  - type: textarea
+    id: racconto
+    attributes:
+      label: Il racconto
+    validations:
+      required: true
+  - type: textarea
+    id: migliorare
+    attributes:
+      label: Cosa avrebbe potuto funzionare meglio sul sito

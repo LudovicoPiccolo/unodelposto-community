@@ -1,0 +1,60 @@
+name: 🐞 Segnala un problema
+description: Qualcosa sul sito non funziona come dovrebbe.
+labels: ["bug", "da-valutare"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Grazie per la segnalazione. **Non inserire dati personali** (nomi, email, telefoni, indirizzi, screenshot di chat o profili di altre persone).
+  - type: dropdown
+    id: ruolo
+    attributes:
+      label: Stavi usando il sito come…
+      options:
+        - Persona del posto
+        - Ospite
+        - Ente
+        - Visitatore senza account
+    validations:
+      required: true
+  - type: textarea
+    id: cosa
+    attributes:
+      label: Cosa è successo
+      description: Descrivi il problema in poche righe.
+    validations:
+      required: true
+  - type: textarea
+    id: passi
+    attributes:
+      label: Come riprodurlo
+      placeholder: |
+        1. Vado sulla pagina…
+        2. Clicco su…
+        3. Vedo…
+    validations:
+      required: true
+  - type: textarea
+    id: atteso
+    attributes:
+      label: Cosa ti aspettavi
+  - type: input
+    id: pagina
+    attributes:
+      label: Indirizzo della pagina
+      placeholder: https://unodelposto.it/...
+  - type: dropdown
+    id: dispositivo
+    attributes:
+      label: Dispositivo
+      options:
+        - Telefono Android
+        - iPhone
+        - Computer
+        - Tablet
+        - Altro
+  - type: input
+    id: browser
+    attributes:
+      label: Browser
+      placeholder: Chrome, Safari, Firefox, app installata…

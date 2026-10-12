@@ -1,0 +1,46 @@
+name: ✨ Proponi una funzionalità
+description: Una richiesta concreta e già definita. Per idee ancora aperte usa le Discussions.
+labels: ["funzionalità", "da-valutare"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Prima di scrivere, controlla la [ROADMAP](https://github.com/OWNER/unodelposto-community/blob/main/ROADMAP.md) e cerca tra le Issues già aperte.
+  - type: dropdown
+    id: ruolo
+    attributes:
+      label: Per chi è
+      multiple: true
+      options:
+        - Persone del posto
+        - Ospiti
+        - Enti
+        - Staff e referenti
+    validations:
+      required: true
+  - type: textarea
+    id: bisogno
+    attributes:
+      label: Il bisogno
+      description: Cosa stavi cercando di fare e cosa ti è mancato? Racconta un caso reale.
+    validations:
+      required: true
+  - type: textarea
+    id: proposta
+    attributes:
+      label: La proposta
+      description: Come immagini che funzioni.
+    validations:
+      required: true
+  - type: textarea
+    id: alternative
+    attributes:
+      label: Come fai oggi
+      description: Ci sono soluzioni che usi adesso, dentro o fuori dal sito?
+  - type: checkboxes
+    id: principi
+    attributes:
+      label: Principi del progetto
+      options:
+        - label: La proposta non introduce pagamenti, mance o promozioni commerciali.
+          required: true

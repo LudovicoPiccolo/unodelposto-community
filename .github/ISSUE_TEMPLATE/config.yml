@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 💡 Idee e domande
+    url: https://github.com/OWNER/unodelposto-community/discussions
+    about: Le idee ancora da definire e le domande vanno nelle Discussions.
+  - name: 🚩 Problema con un utente o un incontro
+    url: https://unodelposto.it
+    about: Usa la funzione «Segnala» sul sito, lo staff la vede subito.
+  - name: 🔒 Vulnerabilità di sicurezza
+    url: https://github.com/OWNER/unodelposto-community/security/advisories/new
+    about: Segnalala in privato, non in una Issue pubblica.
