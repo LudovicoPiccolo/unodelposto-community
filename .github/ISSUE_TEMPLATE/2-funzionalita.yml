@@ -5,7 +5,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        Prima di scrivere, controlla la [ROADMAP](https://github.com/OWNER/unodelposto-community/blob/main/ROADMAP.md) e cerca tra le Issues già aperte.
+        Prima di scrivere, controlla la [ROADMAP](https://github.com/ludovicopiccolo/unodelposto-community/blob/main/ROADMAP.md) e cerca tra le Issues già aperte.
   - type: dropdown
     id: ruolo
     attributes:
