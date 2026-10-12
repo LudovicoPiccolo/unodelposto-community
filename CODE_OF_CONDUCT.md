@@ -19,4 +19,4 @@ Questo spazio vuole essere accogliente come un incontro di Unodelposto.
 
 I moderatori possono modificare o nascondere messaggi, chiudere discussioni e, nei casi più gravi, bloccare l'accesso alla repository.
 
-Per segnalare un comportamento: [ciao@unodelposto.it](mailto:ciao@unodelposto.it).
+Per segnalare un comportamento: [info@unodelposto.it](mailto:info@unodelposto.it).

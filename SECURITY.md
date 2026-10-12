@@ -6,7 +6,7 @@ Se trovi una vulnerabilità o un modo per vedere dati che non dovresti vedere, *
 
 Usa la segnalazione privata di GitHub: scheda **Security** → **Report a vulnerability**. Solo il team vedrà il messaggio.
 
-In alternativa scrivi a [ciao@unodelposto.it](mailto:ciao@unodelposto.it) con oggetto «Sicurezza».
+In alternativa scrivi a [info@unodelposto.it](mailto:info@unodelposto.it) con oggetto «Sicurezza».
 
 ## Cosa includere
 
