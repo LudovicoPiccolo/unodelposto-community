@@ -4,7 +4,7 @@
 
 **Unodelposto** è una piattaforma gratuita dove chi è del posto regala qualche ora del proprio tempo per far conoscere il suo luogo a chi viene da fuori. Nessun pagamento, mai. Il digitale serve solo a far incontrare le persone dal vivo.
 
-🌐 Sito: [unodelposto.it](https://unodelposto.it) · 📘 [Guide online](https://ludovicopiccolo.github.io/unodelposto-community/) · 📄 [Guide in PDF](docs/guide/README.md)
+🌐 Sito: [unodelposto.it](https://unodelposto.it) · 📘 [Guide online](https://ludovicopiccolo.github.io/unodelposto-community/) · 📄 [Guide in PDF](docs/guide/README.md) · 🎬 [Video guide](docs/video/README.md)
 
 <p align="center"><img src="docs/img/hero.jpg" alt="Unodelposto su computer e telefono" width="100%"></p>
 
@@ -95,6 +95,8 @@ Il progetto è in una fase pilota prudente:
 Una guida in PDF per ogni funzionalità, con i passaggi per ciascun tipo di utente: Ospite, persona del posto, Ente, referente regionale.
 
 👉 **[Leggi le guide online](https://ludovicopiccolo.github.io/unodelposto-community/)** oppure [scarica i PDF](docs/guide/README.md)
+
+🎬 **Video guide.** Video brevi, da 30 secondi a un minuto, che spiegano una cosa alla volta sulle schermate del sito. [Vedi l'elenco dei video, con il testo di ciascuno](docs/video/README.md).
 
 ---
 

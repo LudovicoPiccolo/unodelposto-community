@@ -2,6 +2,8 @@
 
 Una guida per ogni funzionalità, in PDF da leggere o stampare. Ogni guida spiega come funziona la funzione per ciascun tipo di utente: Ospite, persona del posto, Ente, referente regionale.
 
+🎬 Preferisci guardare? Ci sono anche le **[video guide](../video/README.md)**: video brevi, una cosa alla volta, con il testo completo.
+
 <table>
 <tr>
 <td width="33%" valign="top"><a href="01-primi-passi/"><img src="01-primi-passi/copertina.jpg" alt="Primi passi"></a><br><b><a href="01-primi-passi/">01 · Primi passi</a></b><br><sub>Tutti</sub><br><a href="01-primi-passi/guida-primi-passi.pdf">PDF, 12 pagine</a></td>
