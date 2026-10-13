@@ -19,14 +19,14 @@ In tutto **99 video**, circa 83 minuti. Usciranno sul canale YouTube di Unodelpo
 
 ## 01 · [Primi passi](01-primi-passi.md)
 
-- **01-01** [Come crei l'account](01-primi-passi.md#01-01-come-crei-laccount) · Tutti · 1:18 ▶️
-- **01-03** [Come entri con il codice](01-primi-passi.md#01-03-come-entri-con-il-codice) · Tutti · 0:46 ▶️
-- **01-04** [Come sistemi il profilo](01-primi-passi.md#01-04-come-sistemi-il-profilo) · Tutti · 0:42 ▶️
-- **01-05** [Come ti orienti nella Home](01-primi-passi.md#01-05-come-ti-orienti-nella-home) · Tutti · 0:45 ▶️
-- **01-06** [Come leggi le notifiche](01-primi-passi.md#01-06-come-leggi-le-notifiche) · Tutti · 0:43 ▶️
-- **01-07** [Come metti Unodelposto sul telefono](01-primi-passi.md#01-07-come-metti-unodelposto-sul-telefono) · Tutti · 0:46 ▶️
-- **01-08** [Dove trovi le impostazioni](01-primi-passi.md#01-08-dove-trovi-le-impostazioni) · Tutti · 0:46 ▶️
-- **01-09** [Cosa puoi fare con il tuo account](01-primi-passi.md#01-09-cosa-puoi-fare-con-il-tuo-account) · Tutti · 0:44 ▶️
+- **01-01** [Come crei l'account](01-primi-passi.md#01-01-come-crei-laccount) · Tutti · 1:18
+- **01-03** [Come entri con il codice](01-primi-passi.md#01-03-come-entri-con-il-codice) · Tutti · 0:46
+- **01-04** [Come sistemi il profilo](01-primi-passi.md#01-04-come-sistemi-il-profilo) · Tutti · 0:42
+- **01-05** [Come ti orienti nella Home](01-primi-passi.md#01-05-come-ti-orienti-nella-home) · Tutti · 0:45
+- **01-06** [Come leggi le notifiche](01-primi-passi.md#01-06-come-leggi-le-notifiche) · Tutti · 0:43
+- **01-07** [Come metti Unodelposto sul telefono](01-primi-passi.md#01-07-come-metti-unodelposto-sul-telefono) · Tutti · 0:46
+- **01-08** [Dove trovi le impostazioni](01-primi-passi.md#01-08-dove-trovi-le-impostazioni) · Tutti · 0:46
+- **01-09** [Cosa puoi fare con il tuo account](01-primi-passi.md#01-09-cosa-puoi-fare-con-il-tuo-account) · Tutti · 0:44
 
 ## 02 · [Trovare un'esperienza e partecipare](02-trovare-e-partecipare.md)
 
