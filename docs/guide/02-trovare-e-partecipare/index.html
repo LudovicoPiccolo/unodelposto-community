@@ -54,7 +54,7 @@
 
   <aside class="note"><strong>Buono a sapersi.</strong> Per guardare le esperienze non serve un account. Per candidarti, salvare un'esperienza tra i preferiti o segnalare qualcosa sì: sotto il pulsante "Candidati" trovi "Serve un account, gratuito. Registrati". Ti chiediamo nome, email, data di nascita (solo maggiorenni) e comune, poi devi confermare l'email.</aside>
 
-  <h3 id="cercare-dal-sito-pubblico">Cercare dal sito pubblico</h3>
+  <h3 id="cercare-dal-sito-pubblico">Cercare dal sito pubblico</h3><figure class="yt"><a href="https://www.youtube.com/watch?v=2hU34UN5KJM" data-yt="2hU34UN5KJM" aria-label="Guarda il video: Come cerchi un'esperienza"><img src="../../guide/video/02-01.jpg" alt="" loading="lazy" decoding="async"><span class="play" aria-hidden="true"></span></a><figcaption><strong>Video</strong> · Come cerchi un'esperienza · 1:00</figcaption></figure>
   <p>Dal menu in alto scegli <strong>Esperienze</strong>. Trovi l'elenco delle esperienze in programma e, su computer, una mappa sulla destra. Sul telefono passi da una vista all'altra con <strong>Elenco</strong> e <strong>Mappa</strong>.</p>
   <p>Con i filtri scegli <strong>Dove</strong> (scrivi il nome del comune), il <strong>Raggio</strong> (10, 25 o 50 km), <strong>Quando</strong> (Oggi, Domani, Questo weekend, Prossimi 7 giorni, Prossimi 30 giorni), il <strong>Tipo</strong> di esperienza e la <strong>Lingua</strong>. Sul sito pubblico puoi anche limitare la ricerca a chi ha l'<strong>Identità verificata</strong> o è <strong>Nella Rete di un Ente</strong>.</p>
   <p>Le posizioni sulla mappa sono approssimate: l'indirizzo esatto arriva solo in chat, dopo l'approvazione.</p>
@@ -188,6 +188,15 @@
   const io = new IntersectionObserver(es => es.forEach(e => { if (e.isIntersecting) { links.forEach(a => a.classList.remove('on')); map.get(e.target.id)?.classList.add('on'); } }), { rootMargin: '-90px 0px -70% 0px' });
   document.querySelectorAll('article h2[id], article h3[id]').forEach(h => io.observe(h));
 })();
+</script><script>
+// Video: al clic l'anteprima diventa il player di YouTube
+document.querySelectorAll('a[data-yt]').forEach(a => a.addEventListener('click', e => {
+  e.preventDefault();
+  const f = document.createElement('iframe');
+  f.src = 'https://www.youtube-nocookie.com/embed/' + a.dataset.yt + '?autoplay=1&rel=0';
+  f.title = a.getAttribute('aria-label'); f.allow = 'autoplay; encrypted-media; picture-in-picture; fullscreen'; f.allowFullscreen = true;
+  a.replaceWith(f);
+}));
 </script>
 </main>
 <footer class="site-foot"><div class="wrap">

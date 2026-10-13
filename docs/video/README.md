@@ -2,7 +2,9 @@
 
 Video brevi, da **30 secondi a un minuto**: ognuno spiega **una sola cosa**, passo dopo passo, sulle schermate vere del sito. Sono pensati per chi usa poco il computer o il telefono.
 
-In tutto **99 video**, circa 83 minuti. Usciranno sul canale YouTube di Unodelposto; per ogni video trovi qui il testo completo, da leggere anche senza audio.
+In tutto **99 video**, circa 83 minuti. Escono sul [canale YouTube di Unodelposto](https://www.youtube.com/@unodelposto): quelli già pubblicati hanno il segno ▶️; per ogni video trovi qui il testo completo, da leggere anche senza audio.
+
+🎬 Prima volta? Guarda **[Cos'è Unodelposto e come funziona](https://youtu.be/Nz-j3grIf3o)** (3:06).
 
 | # | Sezione | Video | Per chi | |
 |---|---|---|---|---|
@@ -19,18 +21,22 @@ In tutto **99 video**, circa 83 minuti. Usciranno sul canale YouTube di Unodelpo
 
 ## 01 · [Primi passi](01-primi-passi.md)
 
-- **01-01** [Come crei l'account](01-primi-passi.md#01-01-come-crei-laccount) · Tutti · 1:18
-- **01-03** [Come entri con il codice](01-primi-passi.md#01-03-come-entri-con-il-codice) · Tutti · 0:46
-- **01-04** [Come sistemi il profilo](01-primi-passi.md#01-04-come-sistemi-il-profilo) · Tutti · 0:42
-- **01-05** [Come ti orienti nella Home](01-primi-passi.md#01-05-come-ti-orienti-nella-home) · Tutti · 0:45
-- **01-06** [Come leggi le notifiche](01-primi-passi.md#01-06-come-leggi-le-notifiche) · Tutti · 0:43
-- **01-07** [Come metti Unodelposto sul telefono](01-primi-passi.md#01-07-come-metti-unodelposto-sul-telefono) · Tutti · 0:46
-- **01-08** [Dove trovi le impostazioni](01-primi-passi.md#01-08-dove-trovi-le-impostazioni) · Tutti · 0:46
-- **01-09** [Cosa puoi fare con il tuo account](01-primi-passi.md#01-09-cosa-puoi-fare-con-il-tuo-account) · Tutti · 0:44
+▶️ [Playlist su YouTube](https://www.youtube.com/playlist?list=PLMMIhMftE_SU)
+
+- **01-01** [Come crei l'account](01-primi-passi.md#01-01-come-crei-laccount) · Tutti · 1:18 ▶️
+- **01-03** [Come entri con il codice](01-primi-passi.md#01-03-come-entri-con-il-codice) · Tutti · 0:46 ▶️
+- **01-04** [Come sistemi il profilo](01-primi-passi.md#01-04-come-sistemi-il-profilo) · Tutti · 0:42 ▶️
+- **01-05** [Come ti orienti nella Home](01-primi-passi.md#01-05-come-ti-orienti-nella-home) · Tutti · 0:45 ▶️
+- **01-06** [Come leggi le notifiche](01-primi-passi.md#01-06-come-leggi-le-notifiche) · Tutti · 0:43 ▶️
+- **01-07** [Come metti Unodelposto sul telefono](01-primi-passi.md#01-07-come-metti-unodelposto-sul-telefono) · Tutti · 0:46 ▶️
+- **01-08** [Dove trovi le impostazioni](01-primi-passi.md#01-08-dove-trovi-le-impostazioni) · Tutti · 0:46 ▶️
+- **01-09** [Cosa puoi fare con il tuo account](01-primi-passi.md#01-09-cosa-puoi-fare-con-il-tuo-account) · Tutti · 0:44 ▶️
 
 ## 02 · [Trovare un'esperienza e partecipare](02-trovare-e-partecipare.md)
 
-- **02-01** [Come cerchi un'esperienza](02-trovare-e-partecipare.md#02-01-come-cerchi-unesperienza) · Ospite · 0:53
+▶️ [Playlist su YouTube](https://www.youtube.com/playlist?list=PLKnHPGGzfbo8)
+
+- **02-01** [Come cerchi un'esperienza](02-trovare-e-partecipare.md#02-01-come-cerchi-unesperienza) · Ospite · 0:53 ▶️
 - **02-02** [Cosa c'è nella scheda di un'esperienza](02-trovare-e-partecipare.md#02-02-cosa-cè-nella-scheda-di-unesperienza) · Ospite · 0:48
 - **02-03** [Come ti candidi](02-trovare-e-partecipare.md#02-03-come-ti-candidi) · Ospite · 1:19
 - **02-05** [Come segui la tua candidatura](02-trovare-e-partecipare.md#02-05-come-segui-la-tua-candidatura) · Ospite · 0:41

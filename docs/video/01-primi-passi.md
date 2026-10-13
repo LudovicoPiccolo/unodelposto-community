@@ -2,6 +2,7 @@
 
 **8 video brevi**, uno per ogni azione. Qui sotto c'è il testo che senti in ciascun video.
 Per tutti i dettagli c'è la guida scritta: 📄 [Primi passi](../guide/01-primi-passi/README.md).
+▶️ Guardali tutti di seguito nella [playlist su YouTube](https://www.youtube.com/playlist?list=PLMMIhMftE_SU).
 
 | Video | Titolo | Per chi | Durata |
 |---|---|---|---|
@@ -19,7 +20,7 @@ Per tutti i dettagli c'è la guida scritta: 📄 [Primi passi](../guide/01-primi
 ## 01-01 Come crei l'account
 
 **Per chi:** Tutti · **Durata:** circa 1:18  
-🎬 _Video in arrivo sul canale YouTube di Unodelposto._
+▶️ [Guarda il video su YouTube](https://youtu.be/yOIWhm9bEDM)
 
 **Testo del video**
 
@@ -39,7 +40,7 @@ Per tutti i dettagli c'è la guida scritta: 📄 [Primi passi](../guide/01-primi
 ## 01-03 Come entri con il codice
 
 **Per chi:** Tutti · **Durata:** circa 0:46  
-🎬 _Video in arrivo sul canale YouTube di Unodelposto._
+▶️ [Guarda il video su YouTube](https://youtu.be/KQWgF3RSePo)
 
 **Testo del video**
 
@@ -55,7 +56,7 @@ Per tutti i dettagli c'è la guida scritta: 📄 [Primi passi](../guide/01-primi
 ## 01-04 Come sistemi il profilo
 
 **Per chi:** Tutti · **Durata:** circa 0:42  
-🎬 _Video in arrivo sul canale YouTube di Unodelposto._
+▶️ [Guarda il video su YouTube](https://youtu.be/3xjKVKc0DvM)
 
 **Testo del video**
 
@@ -71,7 +72,7 @@ Per tutti i dettagli c'è la guida scritta: 📄 [Primi passi](../guide/01-primi
 ## 01-05 Come ti orienti nella Home
 
 **Per chi:** Tutti · **Durata:** circa 0:45  
-🎬 _Video in arrivo sul canale YouTube di Unodelposto._
+▶️ [Guarda il video su YouTube](https://youtu.be/2b6GI0TYTXk)
 
 **Testo del video**
 
@@ -86,7 +87,7 @@ Per tutti i dettagli c'è la guida scritta: 📄 [Primi passi](../guide/01-primi
 ## 01-06 Come leggi le notifiche
 
 **Per chi:** Tutti · **Durata:** circa 0:43  
-🎬 _Video in arrivo sul canale YouTube di Unodelposto._
+▶️ [Guarda il video su YouTube](https://youtu.be/nTAH_pZ9gWU)
 
 **Testo del video**
 
@@ -101,7 +102,7 @@ Per tutti i dettagli c'è la guida scritta: 📄 [Primi passi](../guide/01-primi
 ## 01-07 Come metti Unodelposto sul telefono
 
 **Per chi:** Tutti · **Durata:** circa 0:46  
-🎬 _Video in arrivo sul canale YouTube di Unodelposto._
+▶️ [Guarda il video su YouTube](https://youtu.be/Rvwj0j0LWFs)
 
 **Testo del video**
 
@@ -116,7 +117,7 @@ Per tutti i dettagli c'è la guida scritta: 📄 [Primi passi](../guide/01-primi
 ## 01-08 Dove trovi le impostazioni
 
 **Per chi:** Tutti · **Durata:** circa 0:46  
-🎬 _Video in arrivo sul canale YouTube di Unodelposto._
+▶️ [Guarda il video su YouTube](https://youtu.be/zPnr3x35oh4)
 
 **Testo del video**
 
@@ -132,7 +133,7 @@ Per tutti i dettagli c'è la guida scritta: 📄 [Primi passi](../guide/01-primi
 ## 01-09 Cosa puoi fare con il tuo account
 
 **Per chi:** Tutti · **Durata:** circa 0:44  
-🎬 _Video in arrivo sul canale YouTube di Unodelposto._
+▶️ [Guarda il video su YouTube](https://youtu.be/1Xk0wTVoHHQ)
 
 **Testo del video**
 

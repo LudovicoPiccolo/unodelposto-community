@@ -2,6 +2,7 @@
 
 **6 video brevi**, uno per ogni azione. Qui sotto c'è il testo che senti in ciascun video.
 Per tutti i dettagli c'è la guida scritta: 📄 [Trovare un'esperienza e partecipare](../guide/02-trovare-e-partecipare/README.md).
+▶️ Guardali tutti di seguito nella [playlist su YouTube](https://www.youtube.com/playlist?list=PLKnHPGGzfbo8).
 
 | Video | Titolo | Per chi | Durata |
 |---|---|---|---|
@@ -17,7 +18,7 @@ Per tutti i dettagli c'è la guida scritta: 📄 [Trovare un'esperienza e partec
 ## 02-01 Come cerchi un'esperienza
 
 **Per chi:** Ospite · **Durata:** circa 0:53  
-🎬 _Video in arrivo sul canale YouTube di Unodelposto._
+▶️ [Guarda il video su YouTube](https://youtu.be/2hU34UN5KJM)
 
 **Testo del video**
 

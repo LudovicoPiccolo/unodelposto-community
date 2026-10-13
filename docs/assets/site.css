@@ -160,6 +160,19 @@ table.table td:first-child { font-weight: 600; }
 .dlbox p { margin: 0; font-size: 15px; }
 
 /* ---------- Telefono ---------- */
+figure.yt { margin: 18px 0 28px; }
+.yt a, .yt iframe { position: relative; display: block; width: 100%; aspect-ratio: 16 / 9; border: 1px solid var(--night-200); border-radius: 12px; overflow: hidden; background: var(--night-100); }
+.yt img { width: 100%; height: 100%; object-fit: cover; transition: transform .3s; }
+.yt a:hover img { transform: scale(1.02); }
+.yt .play { position: absolute; left: 50%; top: 50%; width: 68px; height: 48px; margin: -24px 0 0 -34px; border-radius: 14px; background: var(--terra-600); box-shadow: 0 6px 18px rgba(0,0,0,.25); transition: background .2s; }
+.yt .play::after { content: ''; position: absolute; left: 28px; top: 14px; border-style: solid; border-width: 10px 0 10px 16px; border-color: transparent transparent transparent #fff; }
+.yt a:hover .play, .yt a:focus-visible .play { background: var(--terra-700); }
+.yt-grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 4px 20px; margin: 18px 0 28px; }
+.yt-grid figure.yt { margin: 0 0 14px; }
+.watch { display: grid; grid-template-columns: 1fr 1.25fr; gap: 40px; align-items: center; margin-top: 64px; padding: 32px; border-radius: 20px; background: var(--terra-50); }
+.watch h2 { font-size: 28px; margin: 0 0 10px; letter-spacing: -.015em; }
+.watch p { margin: 0 0 20px; color: var(--night-700); }
+.watch figure.yt { margin: 0; }
 @media (max-width: 960px) {
   .hero .wrap, .ghero .wrap { grid-template-columns: 1fr; }
   .ghero .cover { display: none; }
@@ -174,7 +187,8 @@ table.table td:first-child { font-weight: 600; }
   .wrap { padding: 0 16px; }
   .site-head nav a:not(.btn) { display: none; }
   .hero .wrap { padding-top: 40px; padding-bottom: 40px; }
-  .grid, .how, .cards { grid-template-columns: 1fr; }
+  .grid, .how, .cards, .yt-grid, .watch { grid-template-columns: 1fr; }
+  .watch { padding: 22px 18px; gap: 22px; }
   .pair { grid-template-columns: 1fr; }
   .pair figure.shot.phone { max-width: 260px; margin: 0 auto; }
   .pager { grid-template-columns: 1fr; } .pager .next { grid-column: 1; }
