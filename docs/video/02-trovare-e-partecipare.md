@@ -34,7 +34,7 @@ Per tutti i dettagli c'è la guida scritta: 📄 [Trovare un'esperienza e partec
 ## 02-02 Cosa c'è nella scheda di un'esperienza
 
 **Per chi:** Ospite · **Durata:** circa 0:48  
-🎬 _Video in arrivo sul canale YouTube di Unodelposto._
+▶️ [Guarda il video su YouTube](https://youtu.be/GgDItwjRGaU)
 
 **Testo del video**
 
@@ -50,7 +50,7 @@ Per tutti i dettagli c'è la guida scritta: 📄 [Trovare un'esperienza e partec
 ## 02-03 Come ti candidi
 
 **Per chi:** Ospite · **Durata:** circa 1:19  
-🎬 _Video in arrivo sul canale YouTube di Unodelposto._
+▶️ [Guarda il video su YouTube](https://youtu.be/oN1ueFAEs-Q)
 
 **Testo del video**
 
@@ -69,7 +69,7 @@ Per tutti i dettagli c'è la guida scritta: 📄 [Trovare un'esperienza e partec
 ## 02-05 Come segui la tua candidatura
 
 **Per chi:** Ospite · **Durata:** circa 0:41  
-🎬 _Video in arrivo sul canale YouTube di Unodelposto._
+▶️ [Guarda il video su YouTube](https://youtu.be/bj-qykka114)
 
 **Testo del video**
 
@@ -84,7 +84,7 @@ Per tutti i dettagli c'è la guida scritta: 📄 [Trovare un'esperienza e partec
 ## 02-06 Cosa fai quando il posto è tuo
 
 **Per chi:** Ospite · **Durata:** circa 0:40  
-🎬 _Video in arrivo sul canale YouTube di Unodelposto._
+▶️ [Guarda il video su YouTube](https://youtu.be/E1gRahu8z8k)
 
 **Testo del video**
 
@@ -99,7 +99,7 @@ Per tutti i dettagli c'è la guida scritta: 📄 [Trovare un'esperienza e partec
 ## 02-07 Cosa fai se non puoi più venire
 
 **Per chi:** Ospite · **Durata:** circa 0:43  
-🎬 _Video in arrivo sul canale YouTube di Unodelposto._
+▶️ [Guarda il video su YouTube](https://youtu.be/YPImRIfTHdE)
 
 **Testo del video**
 

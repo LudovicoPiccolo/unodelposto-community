@@ -2,6 +2,7 @@
 
 **9 video brevi**, uno per ogni azione. Qui sotto c'è il testo che senti in ciascun video.
 Per tutti i dettagli c'è la guida scritta: 📄 [Proporre un'esperienza](../guide/03-proporre-esperienze/README.md).
+▶️ Guardali tutti di seguito nella [playlist su YouTube](https://www.youtube.com/playlist?list=PLLnPLhqSf9NQ).
 
 | Video | Titolo | Per chi | Durata |
 |---|---|---|---|
@@ -20,7 +21,7 @@ Per tutti i dettagli c'è la guida scritta: 📄 [Proporre un'esperienza](../gui
 ## 03-01 Come diventi uno del posto?
 
 **Per chi:** Persona del posto · **Durata:** circa 0:58  
-🎬 _Video in arrivo sul canale YouTube di Unodelposto._
+▶️ [Guarda il video su YouTube](https://youtu.be/-3z7CwrAx3M)
 
 **Testo del video**
 
@@ -36,7 +37,7 @@ Per tutti i dettagli c'è la guida scritta: 📄 [Proporre un'esperienza](../gui
 ## 03-02 Cosa puoi proporre?
 
 **Per chi:** Persona del posto · **Durata:** circa 0:56  
-🎬 _Video in arrivo sul canale YouTube di Unodelposto._
+▶️ [Guarda il video su YouTube](https://youtu.be/r4SnZdAx4MA)
 
 **Testo del video**
 
@@ -51,7 +52,7 @@ Per tutti i dettagli c'è la guida scritta: 📄 [Proporre un'esperienza](../gui
 ## 03-03 Creare un'esperienza
 
 **Per chi:** Persona del posto · **Durata:** circa 1:58  
-🎬 _Video in arrivo sul canale YouTube di Unodelposto._
+▶️ [Guarda il video su YouTube](https://youtu.be/hLQljk2U9cE)
 
 **Testo del video**
 
@@ -77,7 +78,7 @@ Per tutti i dettagli c'è la guida scritta: 📄 [Proporre un'esperienza](../gui
 ## 03-06 Come completi una bozza?
 
 **Per chi:** Persona del posto · **Durata:** circa 0:43  
-🎬 _Video in arrivo sul canale YouTube di Unodelposto._
+▶️ [Guarda il video su YouTube](https://youtu.be/4uo7USwwjP8)
 
 **Testo del video**
 
@@ -92,7 +93,7 @@ Per tutti i dettagli c'è la guida scritta: 📄 [Proporre un'esperienza](../gui
 ## 03-07 Cosa succede dopo l'invio?
 
 **Per chi:** Persona del posto · **Durata:** circa 0:50  
-🎬 _Video in arrivo sul canale YouTube di Unodelposto._
+▶️ [Guarda il video su YouTube](https://youtu.be/y77le3JkuvE)
 
 **Testo del video**
 

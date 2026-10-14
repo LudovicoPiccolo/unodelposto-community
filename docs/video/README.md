@@ -37,19 +37,21 @@ In tutto **99 video**, circa 83 minuti. Escono sul [canale YouTube di Unodelpost
 ▶️ [Playlist su YouTube](https://www.youtube.com/playlist?list=PLKnHPGGzfbo8)
 
 - **02-01** [Come cerchi un'esperienza](02-trovare-e-partecipare.md#02-01-come-cerchi-unesperienza) · Ospite · 0:53 ▶️
-- **02-02** [Cosa c'è nella scheda di un'esperienza](02-trovare-e-partecipare.md#02-02-cosa-cè-nella-scheda-di-unesperienza) · Ospite · 0:48
-- **02-03** [Come ti candidi](02-trovare-e-partecipare.md#02-03-come-ti-candidi) · Ospite · 1:19
-- **02-05** [Come segui la tua candidatura](02-trovare-e-partecipare.md#02-05-come-segui-la-tua-candidatura) · Ospite · 0:41
-- **02-06** [Cosa fai quando il posto è tuo](02-trovare-e-partecipare.md#02-06-cosa-fai-quando-il-posto-è-tuo) · Ospite · 0:40
-- **02-07** [Cosa fai se non puoi più venire](02-trovare-e-partecipare.md#02-07-cosa-fai-se-non-puoi-più-venire) · Ospite · 0:43
+- **02-02** [Cosa c'è nella scheda di un'esperienza](02-trovare-e-partecipare.md#02-02-cosa-cè-nella-scheda-di-unesperienza) · Ospite · 0:48 ▶️
+- **02-03** [Come ti candidi](02-trovare-e-partecipare.md#02-03-come-ti-candidi) · Ospite · 1:19 ▶️
+- **02-05** [Come segui la tua candidatura](02-trovare-e-partecipare.md#02-05-come-segui-la-tua-candidatura) · Ospite · 0:41 ▶️
+- **02-06** [Cosa fai quando il posto è tuo](02-trovare-e-partecipare.md#02-06-cosa-fai-quando-il-posto-è-tuo) · Ospite · 0:40 ▶️
+- **02-07** [Cosa fai se non puoi più venire](02-trovare-e-partecipare.md#02-07-cosa-fai-se-non-puoi-più-venire) · Ospite · 0:43 ▶️
 
 ## 03 · [Proporre un'esperienza](03-proporre-esperienze.md)
 
-- **03-01** [Come diventi uno del posto?](03-proporre-esperienze.md#03-01-come-diventi-uno-del-posto) · Persona del posto · 0:58
-- **03-02** [Cosa puoi proporre?](03-proporre-esperienze.md#03-02-cosa-puoi-proporre) · Persona del posto · 0:56
-- **03-03** [Creare un'esperienza](03-proporre-esperienze.md#03-03-creare-unesperienza) · Persona del posto · 1:58
-- **03-06** [Come completi una bozza?](03-proporre-esperienze.md#03-06-come-completi-una-bozza) · Persona del posto · 0:43
-- **03-07** [Cosa succede dopo l'invio?](03-proporre-esperienze.md#03-07-cosa-succede-dopo-linvio) · Persona del posto · 0:50
+▶️ [Playlist su YouTube](https://www.youtube.com/playlist?list=PLLnPLhqSf9NQ)
+
+- **03-01** [Come diventi uno del posto?](03-proporre-esperienze.md#03-01-come-diventi-uno-del-posto) · Persona del posto · 0:58 ▶️
+- **03-02** [Cosa puoi proporre?](03-proporre-esperienze.md#03-02-cosa-puoi-proporre) · Persona del posto · 0:56 ▶️
+- **03-03** [Creare un'esperienza](03-proporre-esperienze.md#03-03-creare-unesperienza) · Persona del posto · 1:58 ▶️
+- **03-06** [Come completi una bozza?](03-proporre-esperienze.md#03-06-come-completi-una-bozza) · Persona del posto · 0:43 ▶️
+- **03-07** [Cosa succede dopo l'invio?](03-proporre-esperienze.md#03-07-cosa-succede-dopo-linvio) · Persona del posto · 0:50 ▶️
 - **03-08** [Come scegli chi accogliere?](03-proporre-esperienze.md#03-08-come-scegli-chi-accogliere) · Persona del posto · 0:49
 - **03-09** [Come gestisci chi hai approvato?](03-proporre-esperienze.md#03-09-come-gestisci-chi-hai-approvato) · Persona del posto · 0:40
 - **03-10** [Come modifichi o ripeti un'esperienza?](03-proporre-esperienze.md#03-10-come-modifichi-o-ripeti-unesperienza) · Persona del posto · 0:50
