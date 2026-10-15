@@ -2,6 +2,7 @@
 
 **7 video brevi**, uno per ogni azione. Qui sotto c'è il testo che senti in ciascun video.
 Per tutti i dettagli c'è la guida scritta: 📄 [Chat di gruppo](../guide/04-chat-di-gruppo/README.md).
+▶️ Guardali tutti di seguito nella [playlist su YouTube](https://www.youtube.com/playlist?list=PLE2DKyO4DVvw).
 
 | Video | Titolo | Per chi | Durata |
 |---|---|---|---|
@@ -18,7 +19,7 @@ Per tutti i dettagli c'è la guida scritta: 📄 [Chat di gruppo](../guide/04-ch
 ## 04-01 Dove trovi la chat di gruppo?
 
 **Per chi:** Ospite · **Durata:** circa 0:37  
-🎬 _Video in arrivo sul canale YouTube di Unodelposto._
+▶️ [Guarda il video su YouTube](https://youtu.be/dUi7SHNJaYU)
 
 **Testo del video**
 
@@ -33,7 +34,7 @@ Per tutti i dettagli c'è la guida scritta: 📄 [Chat di gruppo](../guide/04-ch
 ## 04-02 Chi c'è nella chat?
 
 **Per chi:** Tutti · **Durata:** circa 0:51  
-🎬 _Video in arrivo sul canale YouTube di Unodelposto._
+▶️ [Guarda il video su YouTube](https://youtu.be/dhU-ZQZKafI)
 
 **Testo del video**
 
@@ -49,7 +50,7 @@ Per tutti i dettagli c'è la guida scritta: 📄 [Chat di gruppo](../guide/04-ch
 ## 04-03 Dove trovi il punto d'incontro esatto?
 
 **Per chi:** Ospite · **Durata:** circa 0:39  
-🎬 _Video in arrivo sul canale YouTube di Unodelposto._
+▶️ [Guarda il video su YouTube](https://youtu.be/4ZlwfrGKB5g)
 
 **Testo del video**
 
@@ -63,7 +64,7 @@ Per tutti i dettagli c'è la guida scritta: 📄 [Chat di gruppo](../guide/04-ch
 ## 04-04 Come scrivi nella chat?
 
 **Per chi:** Tutti · **Durata:** circa 0:48  
-🎬 _Video in arrivo sul canale YouTube di Unodelposto._
+▶️ [Guarda il video su YouTube](https://youtu.be/dM1xthJcYOg)
 
 **Testo del video**
 
@@ -79,7 +80,7 @@ Per tutti i dettagli c'è la guida scritta: 📄 [Chat di gruppo](../guide/04-ch
 ## 04-05 Come nasce la chat del tuo gruppo?
 
 **Per chi:** Persona del posto · **Durata:** circa 0:46  
-🎬 _Video in arrivo sul canale YouTube di Unodelposto._
+▶️ [Guarda il video su YouTube](https://youtu.be/x-1wbvrNNgc)
 
 **Testo del video**
 
@@ -94,7 +95,7 @@ Per tutti i dettagli c'è la guida scritta: 📄 [Chat di gruppo](../guide/04-ch
 ## 04-06 Cosa fai se qualcosa cambia?
 
 **Per chi:** Persona del posto · **Durata:** circa 0:52  
-🎬 _Video in arrivo sul canale YouTube di Unodelposto._
+▶️ [Guarda il video su YouTube](https://youtu.be/lUBKEYVwnZg)
 
 **Testo del video**
 

@@ -52,19 +52,21 @@ In tutto **99 video**, circa 83 minuti. Escono sul [canale YouTube di Unodelpost
 - **03-03** [Creare un'esperienza](03-proporre-esperienze.md#03-03-creare-unesperienza) · Persona del posto · 1:58 ▶️
 - **03-06** [Come completi una bozza?](03-proporre-esperienze.md#03-06-come-completi-una-bozza) · Persona del posto · 0:43 ▶️
 - **03-07** [Cosa succede dopo l'invio?](03-proporre-esperienze.md#03-07-cosa-succede-dopo-linvio) · Persona del posto · 0:50 ▶️
-- **03-08** [Come scegli chi accogliere?](03-proporre-esperienze.md#03-08-come-scegli-chi-accogliere) · Persona del posto · 0:49
-- **03-09** [Come gestisci chi hai approvato?](03-proporre-esperienze.md#03-09-come-gestisci-chi-hai-approvato) · Persona del posto · 0:40
-- **03-10** [Come modifichi o ripeti un'esperienza?](03-proporre-esperienze.md#03-10-come-modifichi-o-ripeti-unesperienza) · Persona del posto · 0:50
-- **03-11** [Come annulli un'esperienza?](03-proporre-esperienze.md#03-11-come-annulli-unesperienza) · Persona del posto · 0:39
+- **03-08** [Come scegli chi accogliere?](03-proporre-esperienze.md#03-08-come-scegli-chi-accogliere) · Persona del posto · 0:49 ▶️
+- **03-09** [Come gestisci chi hai approvato?](03-proporre-esperienze.md#03-09-come-gestisci-chi-hai-approvato) · Persona del posto · 0:40 ▶️
+- **03-10** [Come modifichi o ripeti un'esperienza?](03-proporre-esperienze.md#03-10-come-modifichi-o-ripeti-unesperienza) · Persona del posto · 0:50 ▶️
+- **03-11** [Come annulli un'esperienza?](03-proporre-esperienze.md#03-11-come-annulli-unesperienza) · Persona del posto · 0:39 ▶️
 
 ## 04 · [Chat di gruppo](04-chat-di-gruppo.md)
 
-- **04-01** [Dove trovi la chat di gruppo?](04-chat-di-gruppo.md#04-01-dove-trovi-la-chat-di-gruppo) · Ospite · 0:37
-- **04-02** [Chi c'è nella chat?](04-chat-di-gruppo.md#04-02-chi-cè-nella-chat) · Tutti · 0:51
-- **04-03** [Dove trovi il punto d'incontro esatto?](04-chat-di-gruppo.md#04-03-dove-trovi-il-punto-dincontro-esatto) · Ospite · 0:39
-- **04-04** [Come scrivi nella chat?](04-chat-di-gruppo.md#04-04-come-scrivi-nella-chat) · Tutti · 0:48
-- **04-05** [Come nasce la chat del tuo gruppo?](04-chat-di-gruppo.md#04-05-come-nasce-la-chat-del-tuo-gruppo) · Persona del posto · 0:46
-- **04-06** [Cosa fai se qualcosa cambia?](04-chat-di-gruppo.md#04-06-cosa-fai-se-qualcosa-cambia) · Persona del posto · 0:52
+▶️ [Playlist su YouTube](https://www.youtube.com/playlist?list=PLE2DKyO4DVvw)
+
+- **04-01** [Dove trovi la chat di gruppo?](04-chat-di-gruppo.md#04-01-dove-trovi-la-chat-di-gruppo) · Ospite · 0:37 ▶️
+- **04-02** [Chi c'è nella chat?](04-chat-di-gruppo.md#04-02-chi-cè-nella-chat) · Tutti · 0:51 ▶️
+- **04-03** [Dove trovi il punto d'incontro esatto?](04-chat-di-gruppo.md#04-03-dove-trovi-il-punto-dincontro-esatto) · Ospite · 0:39 ▶️
+- **04-04** [Come scrivi nella chat?](04-chat-di-gruppo.md#04-04-come-scrivi-nella-chat) · Tutti · 0:48 ▶️
+- **04-05** [Come nasce la chat del tuo gruppo?](04-chat-di-gruppo.md#04-05-come-nasce-la-chat-del-tuo-gruppo) · Persona del posto · 0:46 ▶️
+- **04-06** [Cosa fai se qualcosa cambia?](04-chat-di-gruppo.md#04-06-cosa-fai-se-qualcosa-cambia) · Persona del posto · 0:52 ▶️
 - **04-07** [Come ricevi i messaggi sul telefono?](04-chat-di-gruppo.md#04-07-come-ricevi-i-messaggi-sul-telefono) · Tutti · 0:36
 
 ## 05 · [Recensioni](05-recensioni.md)

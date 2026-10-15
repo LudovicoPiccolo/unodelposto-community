@@ -108,7 +108,7 @@ Per tutti i dettagli c'è la guida scritta: 📄 [Proporre un'esperienza](../gui
 ## 03-08 Come scegli chi accogliere?
 
 **Per chi:** Persona del posto · **Durata:** circa 0:49  
-🎬 _Video in arrivo sul canale YouTube di Unodelposto._
+▶️ [Guarda il video su YouTube](https://youtu.be/034GsVop0z8)
 
 **Testo del video**
 
@@ -123,7 +123,7 @@ Per tutti i dettagli c'è la guida scritta: 📄 [Proporre un'esperienza](../gui
 ## 03-09 Come gestisci chi hai approvato?
 
 **Per chi:** Persona del posto · **Durata:** circa 0:40  
-🎬 _Video in arrivo sul canale YouTube di Unodelposto._
+▶️ [Guarda il video su YouTube](https://youtu.be/r5aYTyNNslk)
 
 **Testo del video**
 
@@ -138,7 +138,7 @@ Per tutti i dettagli c'è la guida scritta: 📄 [Proporre un'esperienza](../gui
 ## 03-10 Come modifichi o ripeti un'esperienza?
 
 **Per chi:** Persona del posto · **Durata:** circa 0:50  
-🎬 _Video in arrivo sul canale YouTube di Unodelposto._
+▶️ [Guarda il video su YouTube](https://youtu.be/GBzpa_E-79o)
 
 **Testo del video**
 
@@ -154,7 +154,7 @@ Per tutti i dettagli c'è la guida scritta: 📄 [Proporre un'esperienza](../gui
 ## 03-11 Come annulli un'esperienza?
 
 **Per chi:** Persona del posto · **Durata:** circa 0:39  
-🎬 _Video in arrivo sul canale YouTube di Unodelposto._
+▶️ [Guarda il video su YouTube](https://youtu.be/ISF3x8b26K8)
 
 **Testo del video**
 
