@@ -67,19 +67,21 @@ In tutto **99 video**, circa 83 minuti. Escono sul [canale YouTube di Unodelpost
 - **04-04** [Come scrivi nella chat?](04-chat-di-gruppo.md#04-04-come-scrivi-nella-chat) · Tutti · 0:48 ▶️
 - **04-05** [Come nasce la chat del tuo gruppo?](04-chat-di-gruppo.md#04-05-come-nasce-la-chat-del-tuo-gruppo) · Persona del posto · 0:46 ▶️
 - **04-06** [Cosa fai se qualcosa cambia?](04-chat-di-gruppo.md#04-06-cosa-fai-se-qualcosa-cambia) · Persona del posto · 0:52 ▶️
-- **04-07** [Come ricevi i messaggi sul telefono?](04-chat-di-gruppo.md#04-07-come-ricevi-i-messaggi-sul-telefono) · Tutti · 0:36
+- **04-07** [Come ricevi i messaggi sul telefono?](04-chat-di-gruppo.md#04-07-come-ricevi-i-messaggi-sul-telefono) · Tutti · 0:36 ▶️
 
 ## 05 · [Recensioni](05-recensioni.md)
 
-- **05-01** [Dove trovi le recensioni da scrivere](05-recensioni.md#05-01-dove-trovi-le-recensioni-da-scrivere) · Ospite · 0:51
-- **05-02** [Come scrivi una recensione](05-recensioni.md#05-02-come-scrivi-una-recensione) · Ospite · 0:46
-- **05-03** [Com'è andata? Conferma l'incontro](05-recensioni.md#05-03-comè-andata-conferma-lincontro) · Persona del posto · 0:55
-- **05-04** [Come recensisci i partecipanti](05-recensioni.md#05-04-come-recensisci-i-partecipanti) · Persona del posto · 0:53
-- **05-05** [Quando si vede una recensione](05-recensioni.md#05-05-quando-si-vede-una-recensione) · Tutti · 0:46
-- **05-06** [Come rispondi a una recensione](05-recensioni.md#05-06-come-rispondi-a-una-recensione) · Tutti · 0:39
-- **05-07** [Dove compaiono le recensioni](05-recensioni.md#05-07-dove-compaiono-le-recensioni) · Tutti · 0:47
-- **05-08** [Come segnali una recensione scorretta](05-recensioni.md#05-08-come-segnali-una-recensione-scorretta) · Tutti · 0:53
-- **05-09** [Assenze e annulli tardivi](05-recensioni.md#05-09-assenze-e-annulli-tardivi) · Tutti · 0:46
+▶️ [Playlist su YouTube](https://www.youtube.com/playlist?list=PLd3fh8SJOQT0)
+
+- **05-01** [Dove trovi le recensioni da scrivere](05-recensioni.md#05-01-dove-trovi-le-recensioni-da-scrivere) · Ospite · 0:51 ▶️
+- **05-02** [Come scrivi una recensione](05-recensioni.md#05-02-come-scrivi-una-recensione) · Ospite · 0:46 ▶️
+- **05-03** [Com'è andata? Conferma l'incontro](05-recensioni.md#05-03-comè-andata-conferma-lincontro) · Persona del posto · 0:55 ▶️
+- **05-04** [Come recensisci i partecipanti](05-recensioni.md#05-04-come-recensisci-i-partecipanti) · Persona del posto · 0:53 ▶️
+- **05-05** [Quando si vede una recensione](05-recensioni.md#05-05-quando-si-vede-una-recensione) · Tutti · 0:46 ▶️
+- **05-06** [Come rispondi a una recensione](05-recensioni.md#05-06-come-rispondi-a-una-recensione) · Tutti · 0:39 ▶️
+- **05-07** [Dove compaiono le recensioni](05-recensioni.md#05-07-dove-compaiono-le-recensioni) · Tutti · 0:47 ▶️
+- **05-08** [Come segnali una recensione scorretta](05-recensioni.md#05-08-come-segnali-una-recensione-scorretta) · Tutti · 0:53 ▶️
+- **05-09** [Assenze e annulli tardivi](05-recensioni.md#05-09-assenze-e-annulli-tardivi) · Tutti · 0:46 ▶️
 
 ## 06 · [Proposte degli Ospiti](06-proposte-degli-ospiti.md)
 

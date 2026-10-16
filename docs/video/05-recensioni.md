@@ -2,6 +2,7 @@
 
 **9 video brevi**, uno per ogni azione. Qui sotto c'è il testo che senti in ciascun video.
 Per tutti i dettagli c'è la guida scritta: 📄 [Recensioni](../guide/05-recensioni/README.md).
+▶️ Guardali tutti di seguito nella [playlist su YouTube](https://www.youtube.com/playlist?list=PLd3fh8SJOQT0).
 
 | Video | Titolo | Per chi | Durata |
 |---|---|---|---|
@@ -20,7 +21,7 @@ Per tutti i dettagli c'è la guida scritta: 📄 [Recensioni](../guide/05-recens
 ## 05-01 Dove trovi le recensioni da scrivere
 
 **Per chi:** Ospite · **Durata:** circa 0:51  
-🎬 _Video in arrivo sul canale YouTube di Unodelposto._
+▶️ [Guarda il video su YouTube](https://youtu.be/q7xHi0IX0f8)
 
 **Testo del video**
 
@@ -36,7 +37,7 @@ Per tutti i dettagli c'è la guida scritta: 📄 [Recensioni](../guide/05-recens
 ## 05-02 Come scrivi una recensione
 
 **Per chi:** Ospite · **Durata:** circa 0:46  
-🎬 _Video in arrivo sul canale YouTube di Unodelposto._
+▶️ [Guarda il video su YouTube](https://youtu.be/s07k2Zx569g)
 
 **Testo del video**
 
@@ -52,7 +53,7 @@ Per tutti i dettagli c'è la guida scritta: 📄 [Recensioni](../guide/05-recens
 ## 05-03 Com'è andata? Conferma l'incontro
 
 **Per chi:** Persona del posto · **Durata:** circa 0:55  
-🎬 _Video in arrivo sul canale YouTube di Unodelposto._
+▶️ [Guarda il video su YouTube](https://youtu.be/s_gOM_rrHX4)
 
 **Testo del video**
 
@@ -68,7 +69,7 @@ Per tutti i dettagli c'è la guida scritta: 📄 [Recensioni](../guide/05-recens
 ## 05-04 Come recensisci i partecipanti
 
 **Per chi:** Persona del posto · **Durata:** circa 0:53  
-🎬 _Video in arrivo sul canale YouTube di Unodelposto._
+▶️ [Guarda il video su YouTube](https://youtu.be/eT0zY5xx55Q)
 
 **Testo del video**
 
@@ -84,7 +85,7 @@ Per tutti i dettagli c'è la guida scritta: 📄 [Recensioni](../guide/05-recens
 ## 05-05 Quando si vede una recensione
 
 **Per chi:** Tutti · **Durata:** circa 0:46  
-🎬 _Video in arrivo sul canale YouTube di Unodelposto._
+▶️ [Guarda il video su YouTube](https://youtu.be/8SjUK4hLlUg)
 
 **Testo del video**
 
@@ -99,7 +100,7 @@ Per tutti i dettagli c'è la guida scritta: 📄 [Recensioni](../guide/05-recens
 ## 05-06 Come rispondi a una recensione
 
 **Per chi:** Tutti · **Durata:** circa 0:39  
-🎬 _Video in arrivo sul canale YouTube di Unodelposto._
+▶️ [Guarda il video su YouTube](https://youtu.be/kl3ezIaFWbs)
 
 **Testo del video**
 
@@ -114,7 +115,7 @@ Per tutti i dettagli c'è la guida scritta: 📄 [Recensioni](../guide/05-recens
 ## 05-07 Dove compaiono le recensioni
 
 **Per chi:** Tutti · **Durata:** circa 0:47  
-🎬 _Video in arrivo sul canale YouTube di Unodelposto._
+▶️ [Guarda il video su YouTube](https://youtu.be/bviSZp3PYy8)
 
 **Testo del video**
 
@@ -129,7 +130,7 @@ Per tutti i dettagli c'è la guida scritta: 📄 [Recensioni](../guide/05-recens
 ## 05-08 Come segnali una recensione scorretta
 
 **Per chi:** Tutti · **Durata:** circa 0:53  
-🎬 _Video in arrivo sul canale YouTube di Unodelposto._
+▶️ [Guarda il video su YouTube](https://youtu.be/ih38F6SqXI0)
 
 **Testo del video**
 
@@ -145,7 +146,7 @@ Per tutti i dettagli c'è la guida scritta: 📄 [Recensioni](../guide/05-recens
 ## 05-09 Assenze e annulli tardivi
 
 **Per chi:** Tutti · **Durata:** circa 0:46  
-🎬 _Video in arrivo sul canale YouTube di Unodelposto._
+▶️ [Guarda il video su YouTube](https://youtu.be/_Vj-6XGhnnw)
 
 **Testo del video**
 

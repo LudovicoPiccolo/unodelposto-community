@@ -111,7 +111,7 @@ Per tutti i dettagli c'è la guida scritta: 📄 [Chat di gruppo](../guide/04-ch
 ## 04-07 Come ricevi i messaggi sul telefono?
 
 **Per chi:** Tutti · **Durata:** circa 0:36  
-🎬 _Video in arrivo sul canale YouTube di Unodelposto._
+▶️ [Guarda il video su YouTube](https://youtu.be/Rfcw4QdQOI0)
 
 **Testo del video**
 
