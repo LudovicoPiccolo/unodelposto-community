@@ -85,14 +85,16 @@ In tutto **99 video**, circa 83 minuti. Escono sul [canale YouTube di Unodelpost
 
 ## 06 · [Proposte degli Ospiti](06-proposte-degli-ospiti.md)
 
-- **06-01** [Cos'è una Proposta dell'Ospite](06-proposte-degli-ospiti.md#06-01-cosè-una-proposta-dellospite) · Tutti · 0:52
-- **06-02** [Scrivere una Proposta](06-proposte-degli-ospiti.md#06-02-scrivere-una-proposta) · Ospite · 1:36
-- **06-04** [Dopo che hai inviato la Proposta](06-proposte-degli-ospiti.md#06-04-dopo-che-hai-inviato-la-proposta) · Ospite · 0:46
-- **06-05** [Come scegli chi incontrare](06-proposte-degli-ospiti.md#06-05-come-scegli-chi-incontrare) · Ospite · 0:51
-- **06-06** [Il gruppo e l'annullamento](06-proposte-degli-ospiti.md#06-06-il-gruppo-e-lannullamento) · Ospite · 0:55
-- **06-07** [Le Proposte del tuo comune](06-proposte-degli-ospiti.md#06-07-le-proposte-del-tuo-comune) · Persona del posto · 0:41
-- **06-08** [Gli avvisi delle Proposte](06-proposte-degli-ospiti.md#06-08-gli-avvisi-delle-proposte) · Persona del posto · 0:41
-- **06-09** [Come ti candidi a una Proposta](06-proposte-degli-ospiti.md#06-09-come-ti-candidi-a-una-proposta) · Persona del posto · 0:36
+▶️ [Playlist su YouTube](https://www.youtube.com/playlist?list=PLHod5y90BqbM)
+
+- **06-01** [Cos'è una Proposta dell'Ospite](06-proposte-degli-ospiti.md#06-01-cosè-una-proposta-dellospite) · Tutti · 0:52 ▶️
+- **06-02** [Scrivere una Proposta](06-proposte-degli-ospiti.md#06-02-scrivere-una-proposta) · Ospite · 1:36 ▶️
+- **06-04** [Dopo che hai inviato la Proposta](06-proposte-degli-ospiti.md#06-04-dopo-che-hai-inviato-la-proposta) · Ospite · 0:46 ▶️
+- **06-05** [Come scegli chi incontrare](06-proposte-degli-ospiti.md#06-05-come-scegli-chi-incontrare) · Ospite · 0:51 ▶️
+- **06-06** [Il gruppo e l'annullamento](06-proposte-degli-ospiti.md#06-06-il-gruppo-e-lannullamento) · Ospite · 0:55 ▶️
+- **06-07** [Le Proposte del tuo comune](06-proposte-degli-ospiti.md#06-07-le-proposte-del-tuo-comune) · Persona del posto · 0:41 ▶️
+- **06-08** [Gli avvisi delle Proposte](06-proposte-degli-ospiti.md#06-08-gli-avvisi-delle-proposte) · Persona del posto · 0:41 ▶️
+- **06-09** [Come ti candidi a una Proposta](06-proposte-degli-ospiti.md#06-09-come-ti-candidi-a-una-proposta) · Persona del posto · 0:36 ▶️
 - **06-10** [Dopo la tua candidatura](06-proposte-degli-ospiti.md#06-10-dopo-la-tua-candidatura) · Persona del posto · 0:43
 
 ## 07 · [Sicurezza e fiducia](07-sicurezza-e-fiducia.md)

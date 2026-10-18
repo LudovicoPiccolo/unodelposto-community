@@ -2,6 +2,7 @@
 
 **9 video brevi**, uno per ogni azione. Qui sotto c'è il testo che senti in ciascun video.
 Per tutti i dettagli c'è la guida scritta: 📄 [Proposte degli Ospiti](../guide/06-proposte-degli-ospiti/README.md).
+▶️ Guardali tutti di seguito nella [playlist su YouTube](https://www.youtube.com/playlist?list=PLHod5y90BqbM).
 
 | Video | Titolo | Per chi | Durata |
 |---|---|---|---|
@@ -20,7 +21,7 @@ Per tutti i dettagli c'è la guida scritta: 📄 [Proposte degli Ospiti](../guid
 ## 06-01 Cos'è una Proposta dell'Ospite
 
 **Per chi:** Tutti · **Durata:** circa 0:52  
-🎬 _Video in arrivo sul canale YouTube di Unodelposto._
+▶️ [Guarda il video su YouTube](https://youtu.be/WdbWRlbz4XU)
 
 **Testo del video**
 
@@ -35,7 +36,7 @@ Per tutti i dettagli c'è la guida scritta: 📄 [Proposte degli Ospiti](../guid
 ## 06-02 Scrivere una Proposta
 
 **Per chi:** Ospite · **Durata:** circa 1:36  
-🎬 _Video in arrivo sul canale YouTube di Unodelposto._
+▶️ [Guarda il video su YouTube](https://youtu.be/f8_l3Gonwuw)
 
 **Testo del video**
 
@@ -57,7 +58,7 @@ Per tutti i dettagli c'è la guida scritta: 📄 [Proposte degli Ospiti](../guid
 ## 06-04 Dopo che hai inviato la Proposta
 
 **Per chi:** Ospite · **Durata:** circa 0:46  
-🎬 _Video in arrivo sul canale YouTube di Unodelposto._
+▶️ [Guarda il video su YouTube](https://youtu.be/bISIKhCMSV0)
 
 **Testo del video**
 
@@ -72,7 +73,7 @@ Per tutti i dettagli c'è la guida scritta: 📄 [Proposte degli Ospiti](../guid
 ## 06-05 Come scegli chi incontrare
 
 **Per chi:** Ospite · **Durata:** circa 0:51  
-🎬 _Video in arrivo sul canale YouTube di Unodelposto._
+▶️ [Guarda il video su YouTube](https://youtu.be/zqgAuvMkTH0)
 
 **Testo del video**
 
@@ -88,7 +89,7 @@ Per tutti i dettagli c'è la guida scritta: 📄 [Proposte degli Ospiti](../guid
 ## 06-06 Il gruppo e l'annullamento
 
 **Per chi:** Ospite · **Durata:** circa 0:55  
-🎬 _Video in arrivo sul canale YouTube di Unodelposto._
+▶️ [Guarda il video su YouTube](https://youtu.be/FSkxeWfG8QY)
 
 **Testo del video**
 
@@ -104,7 +105,7 @@ Per tutti i dettagli c'è la guida scritta: 📄 [Proposte degli Ospiti](../guid
 ## 06-07 Le Proposte del tuo comune
 
 **Per chi:** Persona del posto · **Durata:** circa 0:41  
-🎬 _Video in arrivo sul canale YouTube di Unodelposto._
+▶️ [Guarda il video su YouTube](https://youtu.be/gjL42n_Ow7Q)
 
 **Testo del video**
 
@@ -119,7 +120,7 @@ Per tutti i dettagli c'è la guida scritta: 📄 [Proposte degli Ospiti](../guid
 ## 06-08 Gli avvisi delle Proposte
 
 **Per chi:** Persona del posto · **Durata:** circa 0:41  
-🎬 _Video in arrivo sul canale YouTube di Unodelposto._
+▶️ [Guarda il video su YouTube](https://youtu.be/l3yZUABqMW8)
 
 **Testo del video**
 
@@ -134,7 +135,7 @@ Per tutti i dettagli c'è la guida scritta: 📄 [Proposte degli Ospiti](../guid
 ## 06-09 Come ti candidi a una Proposta
 
 **Per chi:** Persona del posto · **Durata:** circa 0:36  
-🎬 _Video in arrivo sul canale YouTube di Unodelposto._
+▶️ [Guarda il video su YouTube](https://youtu.be/-M72QEKpgOc)
 
 **Testo del video**
 
