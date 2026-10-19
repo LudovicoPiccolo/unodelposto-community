@@ -150,7 +150,7 @@ Per tutti i dettagli c'è la guida scritta: 📄 [Proposte degli Ospiti](../guid
 ## 06-10 Dopo la tua candidatura
 
 **Per chi:** Persona del posto · **Durata:** circa 0:43  
-🎬 _Video in arrivo sul canale YouTube di Unodelposto._
+▶️ [Guarda il video su YouTube](https://youtu.be/NtMvLpVS1x8)
 
 **Testo del video**
 

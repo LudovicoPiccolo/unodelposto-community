@@ -95,19 +95,21 @@ In tutto **99 video**, circa 83 minuti. Escono sul [canale YouTube di Unodelpost
 - **06-07** [Le Proposte del tuo comune](06-proposte-degli-ospiti.md#06-07-le-proposte-del-tuo-comune) · Persona del posto · 0:41 ▶️
 - **06-08** [Gli avvisi delle Proposte](06-proposte-degli-ospiti.md#06-08-gli-avvisi-delle-proposte) · Persona del posto · 0:41 ▶️
 - **06-09** [Come ti candidi a una Proposta](06-proposte-degli-ospiti.md#06-09-come-ti-candidi-a-una-proposta) · Persona del posto · 0:36 ▶️
-- **06-10** [Dopo la tua candidatura](06-proposte-degli-ospiti.md#06-10-dopo-la-tua-candidatura) · Persona del posto · 0:43
+- **06-10** [Dopo la tua candidatura](06-proposte-degli-ospiti.md#06-10-dopo-la-tua-candidatura) · Persona del posto · 0:43 ▶️
 
 ## 07 · [Sicurezza e fiducia](07-sicurezza-e-fiducia.md)
 
-- **07-01** [Come ti protegge Unodelposto?](07-sicurezza-e-fiducia.md#07-01-come-ti-protegge-unodelposto) · Tutti · 0:52
-- **07-02** [Cosa vogliono dire i segni accanto ai nomi?](07-sicurezza-e-fiducia.md#07-02-cosa-vogliono-dire-i-segni-accanto-ai-nomi) · Tutti · 0:44
-- **07-03** [Come cerchi chi ha un segno di fiducia?](07-sicurezza-e-fiducia.md#07-03-come-cerchi-chi-ha-un-segno-di-fiducia) · Ospite · 0:31
-- **07-04** [Cosa vedono gli altri di te?](07-sicurezza-e-fiducia.md#07-04-cosa-vedono-gli-altri-di-te) · Tutti · 0:45
-- **07-05** [Come segnali qualcosa che non va?](07-sicurezza-e-fiducia.md#07-05-come-segnali-qualcosa-che-non-va) · Tutti · 0:56
-- **07-06** [Come segnali un messaggio in chat?](07-sicurezza-e-fiducia.md#07-06-come-segnali-un-messaggio-in-chat) · Tutti · 0:50
-- **07-07** [Cosa non scrivi in chat?](07-sicurezza-e-fiducia.md#07-07-cosa-non-scrivi-in-chat) · Tutti · 0:48
-- **07-08** [Cosa succede dopo una segnalazione?](07-sicurezza-e-fiducia.md#07-08-cosa-succede-dopo-una-segnalazione) · Tutti · 0:51
-- **07-09** [Come blocchi una persona?](07-sicurezza-e-fiducia.md#07-09-come-blocchi-una-persona) · Tutti · 0:48
+▶️ [Playlist su YouTube](https://www.youtube.com/playlist?list=PLU5_WIxKu2z4)
+
+- **07-01** [Come ti protegge Unodelposto?](07-sicurezza-e-fiducia.md#07-01-come-ti-protegge-unodelposto) · Tutti · 0:52 ▶️
+- **07-02** [Cosa vogliono dire i segni accanto ai nomi?](07-sicurezza-e-fiducia.md#07-02-cosa-vogliono-dire-i-segni-accanto-ai-nomi) · Tutti · 0:44 ▶️
+- **07-03** [Come cerchi chi ha un segno di fiducia?](07-sicurezza-e-fiducia.md#07-03-come-cerchi-chi-ha-un-segno-di-fiducia) · Ospite · 0:31 ▶️
+- **07-04** [Cosa vedono gli altri di te?](07-sicurezza-e-fiducia.md#07-04-cosa-vedono-gli-altri-di-te) · Tutti · 0:45 ▶️
+- **07-05** [Come segnali qualcosa che non va?](07-sicurezza-e-fiducia.md#07-05-come-segnali-qualcosa-che-non-va) · Tutti · 0:56 ▶️
+- **07-06** [Come segnali un messaggio in chat?](07-sicurezza-e-fiducia.md#07-06-come-segnali-un-messaggio-in-chat) · Tutti · 0:50 ▶️
+- **07-07** [Cosa non scrivi in chat?](07-sicurezza-e-fiducia.md#07-07-cosa-non-scrivi-in-chat) · Tutti · 0:48 ▶️
+- **07-08** [Cosa succede dopo una segnalazione?](07-sicurezza-e-fiducia.md#07-08-cosa-succede-dopo-una-segnalazione) · Tutti · 0:51 ▶️
+- **07-09** [Come blocchi una persona?](07-sicurezza-e-fiducia.md#07-09-come-blocchi-una-persona) · Tutti · 0:48 ▶️
 - **07-10** [Come esci da una chat?](07-sicurezza-e-fiducia.md#07-10-come-esci-da-una-chat) · Ospite · 0:54
 - **07-11** [Cosa controlli prima di candidarti?](07-sicurezza-e-fiducia.md#07-11-cosa-controlli-prima-di-candidarti) · Ospite · 0:48
 - **07-12** [Cosa fai se all'incontro qualcosa non va?](07-sicurezza-e-fiducia.md#07-12-cosa-fai-se-allincontro-qualcosa-non-va) · Tutti · 0:44

@@ -2,6 +2,7 @@
 
 **14 video brevi**, uno per ogni azione. Qui sotto c'è il testo che senti in ciascun video.
 Per tutti i dettagli c'è la guida scritta: 📄 [Sicurezza e fiducia](../guide/07-sicurezza-e-fiducia/README.md).
+▶️ Guardali tutti di seguito nella [playlist su YouTube](https://www.youtube.com/playlist?list=PLU5_WIxKu2z4).
 
 | Video | Titolo | Per chi | Durata |
 |---|---|---|---|
@@ -25,7 +26,7 @@ Per tutti i dettagli c'è la guida scritta: 📄 [Sicurezza e fiducia](../guide/
 ## 07-01 Come ti protegge Unodelposto?
 
 **Per chi:** Tutti · **Durata:** circa 0:52  
-🎬 _Video in arrivo sul canale YouTube di Unodelposto._
+▶️ [Guarda il video su YouTube](https://youtu.be/bRFSTl-Lzbo)
 
 **Testo del video**
 
@@ -40,7 +41,7 @@ Per tutti i dettagli c'è la guida scritta: 📄 [Sicurezza e fiducia](../guide/
 ## 07-02 Cosa vogliono dire i segni accanto ai nomi?
 
 **Per chi:** Tutti · **Durata:** circa 0:44  
-🎬 _Video in arrivo sul canale YouTube di Unodelposto._
+▶️ [Guarda il video su YouTube](https://youtu.be/20XajnGbXdU)
 
 **Testo del video**
 
@@ -55,7 +56,7 @@ Per tutti i dettagli c'è la guida scritta: 📄 [Sicurezza e fiducia](../guide/
 ## 07-03 Come cerchi chi ha un segno di fiducia?
 
 **Per chi:** Ospite · **Durata:** circa 0:31  
-🎬 _Video in arrivo sul canale YouTube di Unodelposto._
+▶️ [Guarda il video su YouTube](https://youtu.be/sVTFQTMBStY)
 
 **Testo del video**
 
@@ -69,7 +70,7 @@ Per tutti i dettagli c'è la guida scritta: 📄 [Sicurezza e fiducia](../guide/
 ## 07-04 Cosa vedono gli altri di te?
 
 **Per chi:** Tutti · **Durata:** circa 0:45  
-🎬 _Video in arrivo sul canale YouTube di Unodelposto._
+▶️ [Guarda il video su YouTube](https://youtu.be/KBCAY3BrUnE)
 
 **Testo del video**
 
@@ -84,7 +85,7 @@ Per tutti i dettagli c'è la guida scritta: 📄 [Sicurezza e fiducia](../guide/
 ## 07-05 Come segnali qualcosa che non va?
 
 **Per chi:** Tutti · **Durata:** circa 0:56  
-🎬 _Video in arrivo sul canale YouTube di Unodelposto._
+▶️ [Guarda il video su YouTube](https://youtu.be/8-Ng7jQJDQw)
 
 **Testo del video**
 
@@ -100,7 +101,7 @@ Per tutti i dettagli c'è la guida scritta: 📄 [Sicurezza e fiducia](../guide/
 ## 07-06 Come segnali un messaggio in chat?
 
 **Per chi:** Tutti · **Durata:** circa 0:50  
-🎬 _Video in arrivo sul canale YouTube di Unodelposto._
+▶️ [Guarda il video su YouTube](https://youtu.be/kpjA-RKlkeE)
 
 **Testo del video**
 
@@ -115,7 +116,7 @@ Per tutti i dettagli c'è la guida scritta: 📄 [Sicurezza e fiducia](../guide/
 ## 07-07 Cosa non scrivi in chat?
 
 **Per chi:** Tutti · **Durata:** circa 0:48  
-🎬 _Video in arrivo sul canale YouTube di Unodelposto._
+▶️ [Guarda il video su YouTube](https://youtu.be/sjyaOYWkg5A)
 
 **Testo del video**
 
@@ -131,7 +132,7 @@ Per tutti i dettagli c'è la guida scritta: 📄 [Sicurezza e fiducia](../guide/
 ## 07-08 Cosa succede dopo una segnalazione?
 
 **Per chi:** Tutti · **Durata:** circa 0:51  
-🎬 _Video in arrivo sul canale YouTube di Unodelposto._
+▶️ [Guarda il video su YouTube](https://youtu.be/l5mqdxtIcpQ)
 
 **Testo del video**
 
@@ -146,7 +147,7 @@ Per tutti i dettagli c'è la guida scritta: 📄 [Sicurezza e fiducia](../guide/
 ## 07-09 Come blocchi una persona?
 
 **Per chi:** Tutti · **Durata:** circa 0:48  
-🎬 _Video in arrivo sul canale YouTube di Unodelposto._
+▶️ [Guarda il video su YouTube](https://youtu.be/uz0zCu2T_SQ)
 
 **Testo del video**
 
