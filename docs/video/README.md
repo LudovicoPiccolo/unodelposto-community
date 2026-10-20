@@ -110,19 +110,21 @@ In tutto **99 video**, circa 83 minuti. Escono sul [canale YouTube di Unodelpost
 - **07-07** [Cosa non scrivi in chat?](07-sicurezza-e-fiducia.md#07-07-cosa-non-scrivi-in-chat) · Tutti · 0:48 ▶️
 - **07-08** [Cosa succede dopo una segnalazione?](07-sicurezza-e-fiducia.md#07-08-cosa-succede-dopo-una-segnalazione) · Tutti · 0:51 ▶️
 - **07-09** [Come blocchi una persona?](07-sicurezza-e-fiducia.md#07-09-come-blocchi-una-persona) · Tutti · 0:48 ▶️
-- **07-10** [Come esci da una chat?](07-sicurezza-e-fiducia.md#07-10-come-esci-da-una-chat) · Ospite · 0:54
-- **07-11** [Cosa controlli prima di candidarti?](07-sicurezza-e-fiducia.md#07-11-cosa-controlli-prima-di-candidarti) · Ospite · 0:48
-- **07-12** [Cosa fai se all'incontro qualcosa non va?](07-sicurezza-e-fiducia.md#07-12-cosa-fai-se-allincontro-qualcosa-non-va) · Tutti · 0:44
-- **07-13** [Cosa prometti come persona del posto?](07-sicurezza-e-fiducia.md#07-13-cosa-prometti-come-persona-del-posto) · Persona del posto · 0:51
-- **07-14** [Come ti protegge Unodelposto se proponi?](07-sicurezza-e-fiducia.md#07-14-come-ti-protegge-unodelposto-se-proponi) · Persona del posto · 0:56
+- **07-10** [Come esci da una chat?](07-sicurezza-e-fiducia.md#07-10-come-esci-da-una-chat) · Ospite · 0:54 ▶️
+- **07-11** [Cosa controlli prima di candidarti?](07-sicurezza-e-fiducia.md#07-11-cosa-controlli-prima-di-candidarti) · Ospite · 0:48 ▶️
+- **07-12** [Cosa fai se all'incontro qualcosa non va?](07-sicurezza-e-fiducia.md#07-12-cosa-fai-se-allincontro-qualcosa-non-va) · Tutti · 0:44 ▶️
+- **07-13** [Cosa prometti come persona del posto?](07-sicurezza-e-fiducia.md#07-13-cosa-prometti-come-persona-del-posto) · Persona del posto · 0:51 ▶️
+- **07-14** [Come ti protegge Unodelposto se proponi?](07-sicurezza-e-fiducia.md#07-14-come-ti-protegge-unodelposto-se-proponi) · Persona del posto · 0:56 ▶️
 
 ## 08 · [Enti e Progetti](08-enti-e-progetti.md)
 
-- **08-01** [Cos'è un Progetto di un Ente?](08-enti-e-progetti.md#08-01-cosè-un-progetto-di-un-ente) · Ente · 0:49
-- **08-02** [Come registri il tuo Ente?](08-enti-e-progetti.md#08-02-come-registri-il-tuo-ente) · Ente · 0:52
-- **08-03** [Cosa trovi nella pagina del tuo Ente?](08-enti-e-progetti.md#08-03-cosa-trovi-nella-pagina-del-tuo-ente) · Ente · 0:52
-- **08-04** [Come aggiungi un gestore?](08-enti-e-progetti.md#08-04-come-aggiungi-un-gestore) · Ente · 0:37
-- **08-05** [Creare un Progetto](08-enti-e-progetti.md#08-05-creare-un-progetto) · Ente · 1:40
+▶️ [Playlist su YouTube](https://www.youtube.com/playlist?list=PLZZxNqUQRMn0)
+
+- **08-01** [Cos'è un Progetto di un Ente?](08-enti-e-progetti.md#08-01-cosè-un-progetto-di-un-ente) · Ente · 0:49 ▶️
+- **08-02** [Come registri il tuo Ente?](08-enti-e-progetti.md#08-02-come-registri-il-tuo-ente) · Ente · 0:52 ▶️
+- **08-03** [Cosa trovi nella pagina del tuo Ente?](08-enti-e-progetti.md#08-03-cosa-trovi-nella-pagina-del-tuo-ente) · Ente · 0:52 ▶️
+- **08-04** [Come aggiungi un gestore?](08-enti-e-progetti.md#08-04-come-aggiungi-un-gestore) · Ente · 0:37 ▶️
+- **08-05** [Creare un Progetto](08-enti-e-progetti.md#08-05-creare-un-progetto) · Ente · 1:40 ▶️
 - **08-07** [Come invii il Progetto al controllo?](08-enti-e-progetti.md#08-07-come-invii-il-progetto-al-controllo) · Ente · 0:48
 - **08-08** [Come fai entrare i partecipanti?](08-enti-e-progetti.md#08-08-come-fai-entrare-i-partecipanti) · Ente · 0:52
 - **08-09** [Come fai conoscere il Progetto a chi vive lì?](08-enti-e-progetti.md#08-09-come-fai-conoscere-il-progetto-a-chi-vive-lì) · Ente · 0:52

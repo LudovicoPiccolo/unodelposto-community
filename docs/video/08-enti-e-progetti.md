@@ -2,6 +2,7 @@
 
 **16 video brevi**, uno per ogni azione. Qui sotto c'è il testo che senti in ciascun video.
 Per tutti i dettagli c'è la guida scritta: 📄 [Enti e Progetti](../guide/08-enti-e-progetti/README.md).
+▶️ Guardali tutti di seguito nella [playlist su YouTube](https://www.youtube.com/playlist?list=PLZZxNqUQRMn0).
 
 | Video | Titolo | Per chi | Durata |
 |---|---|---|---|
@@ -27,7 +28,7 @@ Per tutti i dettagli c'è la guida scritta: 📄 [Enti e Progetti](../guide/08-e
 ## 08-01 Cos'è un Progetto di un Ente?
 
 **Per chi:** Ente · **Durata:** circa 0:49  
-🎬 _Video in arrivo sul canale YouTube di Unodelposto._
+▶️ [Guarda il video su YouTube](https://youtu.be/8Q3SIcKbqt8)
 
 **Testo del video**
 
@@ -42,7 +43,7 @@ Per tutti i dettagli c'è la guida scritta: 📄 [Enti e Progetti](../guide/08-e
 ## 08-02 Come registri il tuo Ente?
 
 **Per chi:** Ente · **Durata:** circa 0:52  
-🎬 _Video in arrivo sul canale YouTube di Unodelposto._
+▶️ [Guarda il video su YouTube](https://youtu.be/ZBnzgdgE0M0)
 
 **Testo del video**
 
@@ -59,7 +60,7 @@ Per tutti i dettagli c'è la guida scritta: 📄 [Enti e Progetti](../guide/08-e
 ## 08-03 Cosa trovi nella pagina del tuo Ente?
 
 **Per chi:** Ente · **Durata:** circa 0:52  
-🎬 _Video in arrivo sul canale YouTube di Unodelposto._
+▶️ [Guarda il video su YouTube](https://youtu.be/2mK8o-fuauY)
 
 **Testo del video**
 
@@ -75,7 +76,7 @@ Per tutti i dettagli c'è la guida scritta: 📄 [Enti e Progetti](../guide/08-e
 ## 08-04 Come aggiungi un gestore?
 
 **Per chi:** Ente · **Durata:** circa 0:37  
-🎬 _Video in arrivo sul canale YouTube di Unodelposto._
+▶️ [Guarda il video su YouTube](https://youtu.be/CR0rtZPk27U)
 
 **Testo del video**
 
@@ -89,7 +90,7 @@ Per tutti i dettagli c'è la guida scritta: 📄 [Enti e Progetti](../guide/08-e
 ## 08-05 Creare un Progetto
 
 **Per chi:** Ente · **Durata:** circa 1:40  
-🎬 _Video in arrivo sul canale YouTube di Unodelposto._
+▶️ [Guarda il video su YouTube](https://youtu.be/2t04RsB8tLw)
 
 **Testo del video**
 

@@ -162,7 +162,7 @@ Per tutti i dettagli c'è la guida scritta: 📄 [Sicurezza e fiducia](../guide/
 ## 07-10 Come esci da una chat?
 
 **Per chi:** Ospite · **Durata:** circa 0:54  
-🎬 _Video in arrivo sul canale YouTube di Unodelposto._
+▶️ [Guarda il video su YouTube](https://youtu.be/80-iuD6iem0)
 
 **Testo del video**
 
@@ -178,7 +178,7 @@ Per tutti i dettagli c'è la guida scritta: 📄 [Sicurezza e fiducia](../guide/
 ## 07-11 Cosa controlli prima di candidarti?
 
 **Per chi:** Ospite · **Durata:** circa 0:48  
-🎬 _Video in arrivo sul canale YouTube di Unodelposto._
+▶️ [Guarda il video su YouTube](https://youtu.be/6YpQv-roxGc)
 
 **Testo del video**
 
@@ -194,7 +194,7 @@ Per tutti i dettagli c'è la guida scritta: 📄 [Sicurezza e fiducia](../guide/
 ## 07-12 Cosa fai se all'incontro qualcosa non va?
 
 **Per chi:** Tutti · **Durata:** circa 0:44  
-🎬 _Video in arrivo sul canale YouTube di Unodelposto._
+▶️ [Guarda il video su YouTube](https://youtu.be/MOqKZJba7Zw)
 
 **Testo del video**
 
@@ -210,7 +210,7 @@ Per tutti i dettagli c'è la guida scritta: 📄 [Sicurezza e fiducia](../guide/
 ## 07-13 Cosa prometti come persona del posto?
 
 **Per chi:** Persona del posto · **Durata:** circa 0:51  
-🎬 _Video in arrivo sul canale YouTube di Unodelposto._
+▶️ [Guarda il video su YouTube](https://youtu.be/9GdSl1LPBno)
 
 **Testo del video**
 
@@ -225,7 +225,7 @@ Per tutti i dettagli c'è la guida scritta: 📄 [Sicurezza e fiducia](../guide/
 ## 07-14 Come ti protegge Unodelposto se proponi?
 
 **Per chi:** Persona del posto · **Durata:** circa 0:56  
-🎬 _Video in arrivo sul canale YouTube di Unodelposto._
+▶️ [Guarda il video su YouTube](https://youtu.be/ls6jBz-qwN0)
 
 **Testo del video**
 
