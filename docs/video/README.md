@@ -125,16 +125,16 @@ In tutto **99 video**, circa 83 minuti. Escono sul [canale YouTube di Unodelpost
 - **08-03** [Cosa trovi nella pagina del tuo Ente?](08-enti-e-progetti.md#08-03-cosa-trovi-nella-pagina-del-tuo-ente) · Ente · 0:52 ▶️
 - **08-04** [Come aggiungi un gestore?](08-enti-e-progetti.md#08-04-come-aggiungi-un-gestore) · Ente · 0:37 ▶️
 - **08-05** [Creare un Progetto](08-enti-e-progetti.md#08-05-creare-un-progetto) · Ente · 1:40 ▶️
-- **08-07** [Come invii il Progetto al controllo?](08-enti-e-progetti.md#08-07-come-invii-il-progetto-al-controllo) · Ente · 0:48
-- **08-08** [Come fai entrare i partecipanti?](08-enti-e-progetti.md#08-08-come-fai-entrare-i-partecipanti) · Ente · 0:52
-- **08-09** [Come fai conoscere il Progetto a chi vive lì?](08-enti-e-progetti.md#08-09-come-fai-conoscere-il-progetto-a-chi-vive-lì) · Ente · 0:52
-- **08-10** [Come approvi o scolleghi le esperienze?](08-enti-e-progetti.md#08-10-come-approvi-o-scolleghi-le-esperienze) · Ente · 0:48
-- **08-11** [Cosa vede l'Ente, e cosa no?](08-enti-e-progetti.md#08-11-cosa-vede-lente-e-cosa-no) · Ente · 0:52
-- **08-12** [Come scrivi una richiesta?](08-enti-e-progetti.md#08-12-come-scrivi-una-richiesta) · Ente · 0:42
-- **08-13** [Come mandi un annuncio?](08-enti-e-progetti.md#08-13-come-mandi-un-annuncio) · Ente · 0:38
-- **08-14** [Come prepari il rendiconto?](08-enti-e-progetti.md#08-14-come-prepari-il-rendiconto) · Ente · 0:53
-- **08-15** [Vivi dove si svolge un Progetto?](08-enti-e-progetti.md#08-15-vivi-dove-si-svolge-un-progetto) · Persona del posto · 0:58
-- **08-16** [Come proponi un'esperienza per un Progetto?](08-enti-e-progetti.md#08-16-come-proponi-unesperienza-per-un-progetto) · Persona del posto · 0:58
+- **08-07** [Come invii il Progetto al controllo?](08-enti-e-progetti.md#08-07-come-invii-il-progetto-al-controllo) · Ente · 0:48 ▶️
+- **08-08** [Come fai entrare i partecipanti?](08-enti-e-progetti.md#08-08-come-fai-entrare-i-partecipanti) · Ente · 0:52 ▶️
+- **08-09** [Come fai conoscere il Progetto a chi vive lì?](08-enti-e-progetti.md#08-09-come-fai-conoscere-il-progetto-a-chi-vive-lì) · Ente · 0:52 ▶️
+- **08-10** [Come approvi o scolleghi le esperienze?](08-enti-e-progetti.md#08-10-come-approvi-o-scolleghi-le-esperienze) · Ente · 0:48 ▶️
+- **08-11** [Cosa vede l'Ente, e cosa no?](08-enti-e-progetti.md#08-11-cosa-vede-lente-e-cosa-no) · Ente · 0:52 ▶️
+- **08-12** [Come scrivi una richiesta?](08-enti-e-progetti.md#08-12-come-scrivi-una-richiesta) · Ente · 0:42 ▶️
+- **08-13** [Come mandi un annuncio?](08-enti-e-progetti.md#08-13-come-mandi-un-annuncio) · Ente · 0:38 ▶️
+- **08-14** [Come prepari il rendiconto?](08-enti-e-progetti.md#08-14-come-prepari-il-rendiconto) · Ente · 0:53 ▶️
+- **08-15** [Vivi dove si svolge un Progetto?](08-enti-e-progetti.md#08-15-vivi-dove-si-svolge-un-progetto) · Persona del posto · 0:58 ▶️
+- **08-16** [Come proponi un'esperienza per un Progetto?](08-enti-e-progetti.md#08-16-come-proponi-unesperienza-per-un-progetto) · Persona del posto · 0:58 ▶️
 - **08-17** [Come entri in un Progetto con il codice?](08-enti-e-progetti.md#08-17-come-entri-in-un-progetto-con-il-codice) · Ospite · 0:48
 
 ## 09 · [Rete, verifiche e profili affidati](09-rete-verifiche-profili-affidati.md)

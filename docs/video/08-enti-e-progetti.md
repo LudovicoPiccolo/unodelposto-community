@@ -112,7 +112,7 @@ Per tutti i dettagli c'è la guida scritta: 📄 [Enti e Progetti](../guide/08-e
 ## 08-07 Come invii il Progetto al controllo?
 
 **Per chi:** Ente · **Durata:** circa 0:48  
-🎬 _Video in arrivo sul canale YouTube di Unodelposto._
+▶️ [Guarda il video su YouTube](https://youtu.be/81lDiCqryUA)
 
 **Testo del video**
 
@@ -127,7 +127,7 @@ Per tutti i dettagli c'è la guida scritta: 📄 [Enti e Progetti](../guide/08-e
 ## 08-08 Come fai entrare i partecipanti?
 
 **Per chi:** Ente · **Durata:** circa 0:52  
-🎬 _Video in arrivo sul canale YouTube di Unodelposto._
+▶️ [Guarda il video su YouTube](https://youtu.be/yF67ATOaXzc)
 
 **Testo del video**
 
@@ -142,7 +142,7 @@ Per tutti i dettagli c'è la guida scritta: 📄 [Enti e Progetti](../guide/08-e
 ## 08-09 Come fai conoscere il Progetto a chi vive lì?
 
 **Per chi:** Ente · **Durata:** circa 0:52  
-🎬 _Video in arrivo sul canale YouTube di Unodelposto._
+▶️ [Guarda il video su YouTube](https://youtu.be/PEQnkHlFCMg)
 
 **Testo del video**
 
@@ -157,7 +157,7 @@ Per tutti i dettagli c'è la guida scritta: 📄 [Enti e Progetti](../guide/08-e
 ## 08-10 Come approvi o scolleghi le esperienze?
 
 **Per chi:** Ente · **Durata:** circa 0:48  
-🎬 _Video in arrivo sul canale YouTube di Unodelposto._
+▶️ [Guarda il video su YouTube](https://youtu.be/5OFv8jsJWdI)
 
 **Testo del video**
 
@@ -172,7 +172,7 @@ Per tutti i dettagli c'è la guida scritta: 📄 [Enti e Progetti](../guide/08-e
 ## 08-11 Cosa vede l'Ente, e cosa no?
 
 **Per chi:** Ente · **Durata:** circa 0:52  
-🎬 _Video in arrivo sul canale YouTube di Unodelposto._
+▶️ [Guarda il video su YouTube](https://youtu.be/EeHQiQO19FI)
 
 **Testo del video**
 
@@ -187,7 +187,7 @@ Per tutti i dettagli c'è la guida scritta: 📄 [Enti e Progetti](../guide/08-e
 ## 08-12 Come scrivi una richiesta?
 
 **Per chi:** Ente · **Durata:** circa 0:42  
-🎬 _Video in arrivo sul canale YouTube di Unodelposto._
+▶️ [Guarda il video su YouTube](https://youtu.be/v9_iT2czR2Q)
 
 **Testo del video**
 
@@ -201,7 +201,7 @@ Per tutti i dettagli c'è la guida scritta: 📄 [Enti e Progetti](../guide/08-e
 ## 08-13 Come mandi un annuncio?
 
 **Per chi:** Ente · **Durata:** circa 0:38  
-🎬 _Video in arrivo sul canale YouTube di Unodelposto._
+▶️ [Guarda il video su YouTube](https://youtu.be/kvg9OZuYsgE)
 
 **Testo del video**
 
@@ -216,7 +216,7 @@ Per tutti i dettagli c'è la guida scritta: 📄 [Enti e Progetti](../guide/08-e
 ## 08-14 Come prepari il rendiconto?
 
 **Per chi:** Ente · **Durata:** circa 0:53  
-🎬 _Video in arrivo sul canale YouTube di Unodelposto._
+▶️ [Guarda il video su YouTube](https://youtu.be/bqvlcTOYi3w)
 
 **Testo del video**
 
@@ -232,7 +232,7 @@ Per tutti i dettagli c'è la guida scritta: 📄 [Enti e Progetti](../guide/08-e
 ## 08-15 Vivi dove si svolge un Progetto?
 
 **Per chi:** Persona del posto · **Durata:** circa 0:58  
-🎬 _Video in arrivo sul canale YouTube di Unodelposto._
+▶️ [Guarda il video su YouTube](https://youtu.be/LWZ8uVS5JiM)
 
 **Testo del video**
 
@@ -249,7 +249,7 @@ Per tutti i dettagli c'è la guida scritta: 📄 [Enti e Progetti](../guide/08-e
 ## 08-16 Come proponi un'esperienza per un Progetto?
 
 **Per chi:** Persona del posto · **Durata:** circa 0:58  
-🎬 _Video in arrivo sul canale YouTube di Unodelposto._
+▶️ [Guarda il video su YouTube](https://youtu.be/DtyT2WHmqyA)
 
 **Testo del video**
 
