@@ -135,19 +135,21 @@ In tutto **99 video**, circa 83 minuti. Escono sul [canale YouTube di Unodelpost
 - **08-14** [Come prepari il rendiconto?](08-enti-e-progetti.md#08-14-come-prepari-il-rendiconto) · Ente · 0:53 ▶️
 - **08-15** [Vivi dove si svolge un Progetto?](08-enti-e-progetti.md#08-15-vivi-dove-si-svolge-un-progetto) · Persona del posto · 0:58 ▶️
 - **08-16** [Come proponi un'esperienza per un Progetto?](08-enti-e-progetti.md#08-16-come-proponi-unesperienza-per-un-progetto) · Persona del posto · 0:58 ▶️
-- **08-17** [Come entri in un Progetto con il codice?](08-enti-e-progetti.md#08-17-come-entri-in-un-progetto-con-il-codice) · Ospite · 0:48
+- **08-17** [Come entri in un Progetto con il codice?](08-enti-e-progetti.md#08-17-come-entri-in-un-progetto-con-il-codice) · Ospite · 0:48 ▶️
 
 ## 09 · [Rete, verifiche e profili affidati](09-rete-verifiche-profili-affidati.md)
 
-- **09-01** [Come accendi la Rete](09-rete-verifiche-profili-affidati.md#09-01-come-accendi-la-rete) · Ente · 0:54
-- **09-02** [Come confermi chi entra nella Rete](09-rete-verifiche-profili-affidati.md#09-02-come-confermi-chi-entra-nella-rete) · Ente · 0:53
-- **09-03** [Come togli o rinnovi qualcuno nella Rete](09-rete-verifiche-profili-affidati.md#09-03-come-togli-o-rinnovi-qualcuno-nella-rete) · Ente · 0:36
-- **09-04** [Come approvi le esperienze della Rete](09-rete-verifiche-profili-affidati.md#09-04-come-approvi-le-esperienze-della-rete) · Ente · 0:45
-- **09-05** [Come confermi un'identità](09-rete-verifiche-profili-affidati.md#09-05-come-confermi-unidentità) · Ente · 0:48
-- **09-06** [Come crei un profilo affidato](09-rete-verifiche-profili-affidati.md#09-06-come-crei-un-profilo-affidato) · Ente · 0:52
-- **09-07** [Come segui un profilo affidato](09-rete-verifiche-profili-affidati.md#09-07-come-segui-un-profilo-affidato) · Ente · 0:53
-- **09-08** [Come chiedi di entrare in una Rete](09-rete-verifiche-profili-affidati.md#09-08-come-chiedi-di-entrare-in-una-rete) · Persona del posto · 0:52
-- **09-09** [Dopo la richiesta alla Rete](09-rete-verifiche-profili-affidati.md#09-09-dopo-la-richiesta-alla-rete) · Persona del posto · 0:50
+▶️ [Playlist su YouTube](https://www.youtube.com/playlist?list=PLJXJQph3kJcM)
+
+- **09-01** [Come accendi la Rete](09-rete-verifiche-profili-affidati.md#09-01-come-accendi-la-rete) · Ente · 0:54 ▶️
+- **09-02** [Come confermi chi entra nella Rete](09-rete-verifiche-profili-affidati.md#09-02-come-confermi-chi-entra-nella-rete) · Ente · 0:53 ▶️
+- **09-03** [Come togli o rinnovi qualcuno nella Rete](09-rete-verifiche-profili-affidati.md#09-03-come-togli-o-rinnovi-qualcuno-nella-rete) · Ente · 0:36 ▶️
+- **09-04** [Come approvi le esperienze della Rete](09-rete-verifiche-profili-affidati.md#09-04-come-approvi-le-esperienze-della-rete) · Ente · 0:45 ▶️
+- **09-05** [Come confermi un'identità](09-rete-verifiche-profili-affidati.md#09-05-come-confermi-unidentità) · Ente · 0:48 ▶️
+- **09-06** [Come crei un profilo affidato](09-rete-verifiche-profili-affidati.md#09-06-come-crei-un-profilo-affidato) · Ente · 0:52 ▶️
+- **09-07** [Come segui un profilo affidato](09-rete-verifiche-profili-affidati.md#09-07-come-segui-un-profilo-affidato) · Ente · 0:53 ▶️
+- **09-08** [Come chiedi di entrare in una Rete](09-rete-verifiche-profili-affidati.md#09-08-come-chiedi-di-entrare-in-una-rete) · Persona del posto · 0:52 ▶️
+- **09-09** [Dopo la richiesta alla Rete](09-rete-verifiche-profili-affidati.md#09-09-dopo-la-richiesta-alla-rete) · Persona del posto · 0:50 ▶️
 - **09-10** [Come chiedi la verifica d'identità](09-rete-verifiche-profili-affidati.md#09-10-come-chiedi-la-verifica-didentità) · Ospite · 0:51
 
 ## 10 · [Referenti regionali](10-referenti-regionali.md)

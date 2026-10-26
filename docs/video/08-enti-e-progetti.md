@@ -265,7 +265,7 @@ Per tutti i dettagli c'è la guida scritta: 📄 [Enti e Progetti](../guide/08-e
 ## 08-17 Come entri in un Progetto con il codice?
 
 **Per chi:** Ospite · **Durata:** circa 0:48  
-🎬 _Video in arrivo sul canale YouTube di Unodelposto._
+▶️ [Guarda il video su YouTube](https://youtu.be/eIzzUXi8bb4)
 
 **Testo del video**
 

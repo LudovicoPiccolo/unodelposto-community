@@ -2,6 +2,7 @@
 
 **10 video brevi**, uno per ogni azione. Qui sotto c'è il testo che senti in ciascun video.
 Per tutti i dettagli c'è la guida scritta: 📄 [Rete, verifiche e profili affidati](../guide/09-rete-verifiche-profili-affidati/README.md).
+▶️ Guardali tutti di seguito nella [playlist su YouTube](https://www.youtube.com/playlist?list=PLJXJQph3kJcM).
 
 | Video | Titolo | Per chi | Durata |
 |---|---|---|---|
@@ -21,7 +22,7 @@ Per tutti i dettagli c'è la guida scritta: 📄 [Rete, verifiche e profili affi
 ## 09-01 Come accendi la Rete
 
 **Per chi:** Ente · **Durata:** circa 0:54  
-🎬 _Video in arrivo sul canale YouTube di Unodelposto._
+▶️ [Guarda il video su YouTube](https://youtu.be/Luj9Yn2Lhc0)
 
 **Testo del video**
 
@@ -36,7 +37,7 @@ Per tutti i dettagli c'è la guida scritta: 📄 [Rete, verifiche e profili affi
 ## 09-02 Come confermi chi entra nella Rete
 
 **Per chi:** Ente · **Durata:** circa 0:53  
-🎬 _Video in arrivo sul canale YouTube di Unodelposto._
+▶️ [Guarda il video su YouTube](https://youtu.be/wGUQf4LAVSA)
 
 **Testo del video**
 
@@ -52,7 +53,7 @@ Per tutti i dettagli c'è la guida scritta: 📄 [Rete, verifiche e profili affi
 ## 09-03 Come togli o rinnovi qualcuno nella Rete
 
 **Per chi:** Ente · **Durata:** circa 0:36  
-🎬 _Video in arrivo sul canale YouTube di Unodelposto._
+▶️ [Guarda il video su YouTube](https://youtu.be/A78KFRbyma8)
 
 **Testo del video**
 
@@ -66,7 +67,7 @@ Per tutti i dettagli c'è la guida scritta: 📄 [Rete, verifiche e profili affi
 ## 09-04 Come approvi le esperienze della Rete
 
 **Per chi:** Ente · **Durata:** circa 0:45  
-🎬 _Video in arrivo sul canale YouTube di Unodelposto._
+▶️ [Guarda il video su YouTube](https://youtu.be/wrf4mkT_Dww)
 
 **Testo del video**
 
@@ -80,7 +81,7 @@ Per tutti i dettagli c'è la guida scritta: 📄 [Rete, verifiche e profili affi
 ## 09-05 Come confermi un'identità
 
 **Per chi:** Ente · **Durata:** circa 0:48  
-🎬 _Video in arrivo sul canale YouTube di Unodelposto._
+▶️ [Guarda il video su YouTube](https://youtu.be/4pqbx5IoL9s)
 
 **Testo del video**
 
@@ -95,7 +96,7 @@ Per tutti i dettagli c'è la guida scritta: 📄 [Rete, verifiche e profili affi
 ## 09-06 Come crei un profilo affidato
 
 **Per chi:** Ente · **Durata:** circa 0:52  
-🎬 _Video in arrivo sul canale YouTube di Unodelposto._
+▶️ [Guarda il video su YouTube](https://youtu.be/CS44l8A-Ylo)
 
 **Testo del video**
 
@@ -110,7 +111,7 @@ Per tutti i dettagli c'è la guida scritta: 📄 [Rete, verifiche e profili affi
 ## 09-07 Come segui un profilo affidato
 
 **Per chi:** Ente · **Durata:** circa 0:53  
-🎬 _Video in arrivo sul canale YouTube di Unodelposto._
+▶️ [Guarda il video su YouTube](https://youtu.be/8qbW5Rkl8C4)
 
 **Testo del video**
 
@@ -125,7 +126,7 @@ Per tutti i dettagli c'è la guida scritta: 📄 [Rete, verifiche e profili affi
 ## 09-08 Come chiedi di entrare in una Rete
 
 **Per chi:** Persona del posto · **Durata:** circa 0:52  
-🎬 _Video in arrivo sul canale YouTube di Unodelposto._
+▶️ [Guarda il video su YouTube](https://youtu.be/RR5vCxcKtOI)
 
 **Testo del video**
 
@@ -141,7 +142,7 @@ Per tutti i dettagli c'è la guida scritta: 📄 [Rete, verifiche e profili affi
 ## 09-09 Dopo la richiesta alla Rete
 
 **Per chi:** Persona del posto · **Durata:** circa 0:50  
-🎬 _Video in arrivo sul canale YouTube di Unodelposto._
+▶️ [Guarda il video su YouTube](https://youtu.be/nLCx1XhiqtI)
 
 **Testo del video**
 
