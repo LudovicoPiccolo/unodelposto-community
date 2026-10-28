@@ -157,7 +157,7 @@ Per tutti i dettagli c'è la guida scritta: 📄 [Rete, verifiche e profili affi
 ## 09-10 Come chiedi la verifica d'identità
 
 **Per chi:** Ospite · **Durata:** circa 0:51  
-🎬 _Video in arrivo sul canale YouTube di Unodelposto._
+▶️ [Guarda il video su YouTube](https://youtu.be/LAaO1sF6eqs)
 
 **Testo del video**
 

@@ -2,6 +2,7 @@
 
 **11 video brevi**, uno per ogni azione. Qui sotto c'è il testo che senti in ciascun video.
 Per tutti i dettagli c'è la guida scritta: 📄 [Referenti regionali](../guide/10-referenti-regionali/README.md).
+▶️ Guardali tutti di seguito nella [playlist su YouTube](https://www.youtube.com/playlist?list=PLet7zvFGU-eg).
 
 | Video | Titolo | Per chi | Durata |
 |---|---|---|---|
@@ -22,7 +23,7 @@ Per tutti i dettagli c'è la guida scritta: 📄 [Referenti regionali](../guide/
 ## 10-01 Cos'è la squadra regionale
 
 **Per chi:** Tutti · **Durata:** circa 0:48  
-🎬 _Video in arrivo sul canale YouTube di Unodelposto._
+▶️ [Guarda il video su YouTube](https://youtu.be/kb2Kd6Awbm0)
 
 **Testo del video**
 
@@ -37,7 +38,7 @@ Per tutti i dettagli c'è la guida scritta: 📄 [Referenti regionali](../guide/
 ## 10-02 Come ti candidi
 
 **Per chi:** Tutti · **Durata:** circa 1:19  
-🎬 _Video in arrivo sul canale YouTube di Unodelposto._
+▶️ [Guarda il video su YouTube](https://youtu.be/2kPnUr1MUEs)
 
 **Testo del video**
 
@@ -56,7 +57,7 @@ Per tutti i dettagli c'è la guida scritta: 📄 [Referenti regionali](../guide/
 ## 10-04 Cosa succede dopo la candidatura
 
 **Per chi:** Tutti · **Durata:** circa 0:32  
-🎬 _Video in arrivo sul canale YouTube di Unodelposto._
+▶️ [Guarda il video su YouTube](https://youtu.be/H6KjGX20hf0)
 
 **Testo del video**
 
@@ -70,7 +71,7 @@ Per tutti i dettagli c'è la guida scritta: 📄 [Referenti regionali](../guide/
 ## 10-05 Come gestisci la tua nomina
 
 **Per chi:** Referente regionale · **Durata:** circa 0:37  
-🎬 _Video in arrivo sul canale YouTube di Unodelposto._
+▶️ [Guarda il video su YouTube](https://youtu.be/TRd9k60FCtM)
 
 **Testo del video**
 
@@ -84,7 +85,7 @@ Per tutti i dettagli c'è la guida scritta: 📄 [Referenti regionali](../guide/
 ## 10-06 Come entri nell'area della regione
 
 **Per chi:** Referente regionale · **Durata:** circa 0:43  
-🎬 _Video in arrivo sul canale YouTube di Unodelposto._
+▶️ [Guarda il video su YouTube](https://youtu.be/NRCZjLxYpnE)
 
 **Testo del video**
 
@@ -99,7 +100,7 @@ Per tutti i dettagli c'è la guida scritta: 📄 [Referenti regionali](../guide/
 ## 10-07 Cosa trovi nel cruscotto
 
 **Per chi:** Referente regionale · **Durata:** circa 0:53  
-🎬 _Video in arrivo sul canale YouTube di Unodelposto._
+▶️ [Guarda il video su YouTube](https://youtu.be/NRZDdCG6leM)
 
 **Testo del video**
 
@@ -114,7 +115,7 @@ Per tutti i dettagli c'è la guida scritta: 📄 [Referenti regionali](../guide/
 ## 10-08 Come inviti nuove persone
 
 **Per chi:** Referente regionale · **Durata:** circa 0:50  
-🎬 _Video in arrivo sul canale YouTube di Unodelposto._
+▶️ [Guarda il video su YouTube](https://youtu.be/u0Ieso_SO6Q)
 
 **Testo del video**
 
@@ -129,7 +130,7 @@ Per tutti i dettagli c'è la guida scritta: 📄 [Referenti regionali](../guide/
 ## 10-09 Come segui le persone coinvolte
 
 **Per chi:** Referente regionale · **Durata:** circa 0:41  
-🎬 _Video in arrivo sul canale YouTube di Unodelposto._
+▶️ [Guarda il video su YouTube](https://youtu.be/V7_0AMfE6AU)
 
 **Testo del video**
 
@@ -143,7 +144,7 @@ Per tutti i dettagli c'è la guida scritta: 📄 [Referenti regionali](../guide/
 ## 10-10 Come controlli una Proposta
 
 **Per chi:** Referente regionale · **Durata:** circa 1:31  
-🎬 _Video in arrivo sul canale YouTube di Unodelposto._
+▶️ [Guarda il video su YouTube](https://youtu.be/419hv4Kimgg)
 
 **Testo del video**
 

@@ -150,19 +150,21 @@ In tutto **99 video**, circa 83 minuti. Escono sul [canale YouTube di Unodelpost
 - **09-07** [Come segui un profilo affidato](09-rete-verifiche-profili-affidati.md#09-07-come-segui-un-profilo-affidato) · Ente · 0:53 ▶️
 - **09-08** [Come chiedi di entrare in una Rete](09-rete-verifiche-profili-affidati.md#09-08-come-chiedi-di-entrare-in-una-rete) · Persona del posto · 0:52 ▶️
 - **09-09** [Dopo la richiesta alla Rete](09-rete-verifiche-profili-affidati.md#09-09-dopo-la-richiesta-alla-rete) · Persona del posto · 0:50 ▶️
-- **09-10** [Come chiedi la verifica d'identità](09-rete-verifiche-profili-affidati.md#09-10-come-chiedi-la-verifica-didentità) · Ospite · 0:51
+- **09-10** [Come chiedi la verifica d'identità](09-rete-verifiche-profili-affidati.md#09-10-come-chiedi-la-verifica-didentità) · Ospite · 0:51 ▶️
 
 ## 10 · [Referenti regionali](10-referenti-regionali.md)
 
-- **10-01** [Cos'è la squadra regionale](10-referenti-regionali.md#10-01-cosè-la-squadra-regionale) · Tutti · 0:48
-- **10-02** [Come ti candidi](10-referenti-regionali.md#10-02-come-ti-candidi) · Tutti · 1:19
-- **10-04** [Cosa succede dopo la candidatura](10-referenti-regionali.md#10-04-cosa-succede-dopo-la-candidatura) · Tutti · 0:32
-- **10-05** [Come gestisci la tua nomina](10-referenti-regionali.md#10-05-come-gestisci-la-tua-nomina) · Referente regionale · 0:37
-- **10-06** [Come entri nell'area della regione](10-referenti-regionali.md#10-06-come-entri-nellarea-della-regione) · Referente regionale · 0:43
-- **10-07** [Cosa trovi nel cruscotto](10-referenti-regionali.md#10-07-cosa-trovi-nel-cruscotto) · Referente regionale · 0:53
-- **10-08** [Come inviti nuove persone](10-referenti-regionali.md#10-08-come-inviti-nuove-persone) · Referente regionale · 0:50
-- **10-09** [Come segui le persone coinvolte](10-referenti-regionali.md#10-09-come-segui-le-persone-coinvolte) · Referente regionale · 0:41
-- **10-10** [Come controlli una Proposta](10-referenti-regionali.md#10-10-come-controlli-una-proposta) · Referente regionale · 1:31
+▶️ [Playlist su YouTube](https://www.youtube.com/playlist?list=PLet7zvFGU-eg)
+
+- **10-01** [Cos'è la squadra regionale](10-referenti-regionali.md#10-01-cosè-la-squadra-regionale) · Tutti · 0:48 ▶️
+- **10-02** [Come ti candidi](10-referenti-regionali.md#10-02-come-ti-candidi) · Tutti · 1:19 ▶️
+- **10-04** [Cosa succede dopo la candidatura](10-referenti-regionali.md#10-04-cosa-succede-dopo-la-candidatura) · Tutti · 0:32 ▶️
+- **10-05** [Come gestisci la tua nomina](10-referenti-regionali.md#10-05-come-gestisci-la-tua-nomina) · Referente regionale · 0:37 ▶️
+- **10-06** [Come entri nell'area della regione](10-referenti-regionali.md#10-06-come-entri-nellarea-della-regione) · Referente regionale · 0:43 ▶️
+- **10-07** [Cosa trovi nel cruscotto](10-referenti-regionali.md#10-07-cosa-trovi-nel-cruscotto) · Referente regionale · 0:53 ▶️
+- **10-08** [Come inviti nuove persone](10-referenti-regionali.md#10-08-come-inviti-nuove-persone) · Referente regionale · 0:50 ▶️
+- **10-09** [Come segui le persone coinvolte](10-referenti-regionali.md#10-09-come-segui-le-persone-coinvolte) · Referente regionale · 0:41 ▶️
+- **10-10** [Come controlli una Proposta](10-referenti-regionali.md#10-10-come-controlli-una-proposta) · Referente regionale · 1:31 ▶️
 - **10-12** [Come scrivi il testo di un luogo](10-referenti-regionali.md#10-12-come-scrivi-il-testo-di-un-luogo) · Referente regionale · 0:57
 - **10-13** [Cosa non fa la squadra regionale](10-referenti-regionali.md#10-13-cosa-non-fa-la-squadra-regionale) · Referente regionale · 0:45
 
